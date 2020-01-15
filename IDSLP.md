@@ -92,3 +92,14 @@ Based on the conventional notion of a program, a programmer would spend a great 
 Suppose in a hypothetical scenario, the Facebook Android app incorporates a shellet, making it possible for users to access and modify its variables and code. The greatest benefits would be that free software programmers and freelancers would be able to add and improve features to the existing app, benefitting all users. 
 
 However, in reality, it would be quite unlikely for Facebook to adopt shellet for business reasons, even though it is technically trivial to do so. We cite this example so that readers may appreciate the potential benefits of shellet. 
+
+
+#### Challenging Facebook (or Any Established Social Media App)
+
+Suppose we move down on the scale on commercial values to find an existing open source Android app, which allow us to incorporate shellet easily:
+
+1. Signal would be a useful candidate;
+
+2. Online Game
+
+3. Cryptocurrency Wallets
