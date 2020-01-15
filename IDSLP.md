@@ -100,6 +100,8 @@ Suppose we move down on the scale on commercial values to find an existing open 
 
 1. Signal would be a useful candidate;
 
-2. Online Game
+2. Online Games
 
 3. Cryptocurrency Wallets
+
+Besides Anroid apps, shellet can of course be incorporated into any program on any platform (Linux, Windows, Web, Mac, iOS), as long as the Phos stack machine interpreter can be ported, which consist only of around 20 lines of JavaScript code at its core.
