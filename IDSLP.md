@@ -10,7 +10,7 @@ ID-less Shellet Programming (IDSLP) will usher in a new era of CLOUDLESS Computi
 
 Phos stack machine shell (Smashlet) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel "one word at a time" approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population.
 
-Shellet or Smashlet refers to a shell embedded within a program (hence the "-let" suffix) derived from the minimalist Forth architecture.
+Shellet or Smashlet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
 
 #### ID-less Messaging: Maximizing the Possibilities of Asymmetric Cryptography
@@ -77,3 +77,18 @@ Use Lego as analogy for reverse Polish notation -- it can represent anything, fu
 
 
   
+#### Benefits of Shellet Programming
+
+One of biggest drawbacks of existing software infrastructure that few have questioned is the artificial barriers between social networks, causing great difficulties for free software programmers or freelancers to improve on the existing features and services.
+
+e.g. No one outside Facebook would be able to write code to improve the Facebook app, although limited APIs for developing applets and other protocols have been published.
+
+ID-less Shellet Programming would circumvent these barriers by changing several fundamental behaviors of network applications. 
+
+Firstly, Shellet Programming (SHLP) departs from the notion of "a programmer writes an independent program", that communicates with other programs via network protocols. Shellet allows third party programmers to directly access and modify the variables and code of a program IN EXECUTION. 
+
+Based on the conventional notion of a program, a programmer would spend a great deal of effort to edit the code and compile it to produce an executable package, e.g. an Android apk. A programmer unrelated to Facebook would require an even greater huge effort to create an independent program that can work with the Facebook app or Facebook server, by incorporating various proprietary APIs. 
+
+Suppose in a hypothetical scenario, the Facebook Android app incorporates a shellet, making it possible for users to access and modify its variables and code. The greatest benefits would be that free software programmers and freelancers would be able to add and improve features to the existing app, benefitting all users. 
+
+However, in reality, it would be quite unlikely for Facebook to adopt shellet for business reasons, even though it is technically trivial to do so. We cite this example so that readers may appreciate the potential benefits of shellet. 
