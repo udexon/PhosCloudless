@@ -50,6 +50,10 @@ IDSL ID-less Shellet Programming: Towards Cloudless Computing
 
 GUI programming is also based in graph theory. List of button: position of button is value, clicking it is to invoke, analogous to reverse Polish notation data on stack and operation. 
 
+全能网游平台
+
+Most profitable use case of IDSLP is to improve existing social media apps and online games. Development of these games are controlled by centralized corporate programmers. No other way. IDSLP allows additional developments by free software programmers or freelance programmers without interruption of existing infrastructure.
+
 
 
 Imagine earning one cent for every minute of game playing from one single player. Use Smashlet to reprogram everything. It is like Mr Smith in Matrix. Quite literally. 
