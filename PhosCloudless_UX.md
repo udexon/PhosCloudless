@@ -12,7 +12,7 @@ Shellet is a shell that can be embedded within any GUI element that can accept a
 
 Shellet is derived from the Forth programming language, launched in 1968, known for its stack machine architecture and Reverse Polish Notation syntax. The original Forth interpreter has many components that can be eliminated and simplified, so that we can create a stack machine shellet with around 20 lines of JavaScript code or equivalent. 
 
-The example here shows a shellet is embedded within an Android Imgui demo app. Imgui is one of the most hard core bleeding edge GUI module available for OpenGL as well as the latest Vulkan platform. 
+The example here shows how a shellet is embedded within an Android Imgui demo app. Imgui is one of the most hard core bleeding edge GUI module available for OpenGL as well as the latest Vulkan platform. 
 
 Shellet is combined with another novel idea of mine, ID-less transaction using asymmetric cryptography, to create the foundation of "cloudless computing", a critical departure from the current mainstream cloud computing, which revolutionizes the fundamentals of existing UX design.
 
