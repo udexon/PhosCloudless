@@ -21,3 +21,9 @@ ID-less transaction is the result of eliminating the predominant Unix style user
 The biggest change in UX design with shellet ID-less cloudless computing concerns the "programmability" of the app i.e. a user is able to add code to modify existing features of the app, both at the client side as well as the server side. This is an unimaginable possibility in cloud computing, as the "owner" of the "system" is the owner of the server programs hosted in the cloud. Based on this fundamental paradigm shift, the UX design needs to be radically modified.
 
 Besides cloudless computing, shellet programming is based on reverse polish notation, which is directly related to graph theory, which in turn is related graphical user interface design. In other words, all elements of GUI can be reprogrammed ON THE FLY using RPN shellet programming.
+
+In summary, the novel contributions of Phos Cloudless Computing to UX design are:
+
+- fundamentally changing the foundation of user experience &ndash; enabling users to modify the features and functionalities of a network application, at both front end and back end;
+
+- redefining the editing mechanims of graphical user interface, using Reverse Polish Notation and graph theory.
