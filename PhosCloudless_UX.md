@@ -8,6 +8,14 @@ Create mock up floating cell for RPN input, with threejs background.
 
 Just use Imgui example.
 
+#### Imgui Android Shellet Demo
+
+<p> Figure 1 </p>
+<img src="https://github.com/udexon/EMYL/blob/master/E005_Imgui_Android/Imgui_Android_Start.png" width=300>
+
+<p> Figure 2 </p>
+<img src="https://github.com/udexon/EMYL/blob/master/E005_Imgui_Android/Imgui_Android_888.png" width=300>
+
 Shellet is a shell that can be embedded within any GUI element that can accept a string input. I coined the term shellet as its functionality is equivalent to a full fledged Unix shell (e.g. bash) but is embedded in a program, smaller than the operating system, hence the suffix "-let".
 
 Shellet is derived from the Forth programming language, launched in 1968, known for its stack machine architecture and Reverse Polish Notation syntax. The original Forth interpreter has many components that can be eliminated and simplified, so that we can create a stack machine shellet with around 20 lines of JavaScript code or equivalent. 
