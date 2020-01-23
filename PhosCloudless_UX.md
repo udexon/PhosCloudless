@@ -16,7 +16,7 @@ Just use Imgui example.
 <p> Figure 2 </p>
 <img src="https://github.com/udexon/EMYL/blob/master/E005_Imgui_Android/Imgui_Android_888.png" width=300>
 
-Figure 1 shows the start up screen of Android Imgui demo taken from GitHub user [sfalexrog](https://github.com/sfalexrog/Imgui_Android).
+Figure 1 shows the start up screen of [Android Imgui demo](https://github.com/sfalexrog/Imgui_Android) taken from GitHub user sfalexrog. The Android Imgui demo has been modified so that when the Button is clicked (as shown in Figure 2), the string in "input text" is evaluated as a Reverse Polish Notation expression, i.e. `H 333 555 +`, which evaluates to `888` and shown next to Button.
 
 Shellet is a shell that can be embedded within any GUI element that can accept a string input. I coined the term shellet as its functionality is equivalent to a full fledged Unix shell (e.g. bash) but is embedded in a program, smaller than the operating system, hence the suffix "-let".
 
