@@ -24,7 +24,7 @@ Shellet is derived from the Forth programming language, launched in 1968, known 
 
 The example here shows how a shellet is embedded within an Android Imgui demo app. Imgui is one of the most hard core bleeding edge GUI module available for OpenGL as well as the latest Vulkan platform. 
 
-Shellet is combined with another novel idea of mine, ID-less transaction using asymmetric cryptography, to create the foundation of "cloudless computing", a critical departure from the current mainstream cloud computing, which revolutionizes the fundamentals of existing UX design.
+Shellet is combined with another novel idea of mine, [ ID-less transaction using asymmetric cryptography](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md), to create the foundation of "cloudless computing", a critical departure from the current mainstream cloud computing, which revolutionizes the fundamentals of existing UX design.
 
 ID-less transaction is the result of eliminating the predominant Unix style user ID and applying asymmetric cryptography in novel yet fundamental ways. Together with shellet programming, server processes now hosted in the cloud can all be ported to mobile devices, creating the almost perfect anonymous private platform, as well as leveling the playing fields for the next generation of technology start-ups. A very basic application of cloudless computing is online tipping using cryptocurrencies, that has a captive market worth billions of dollars daily, which is impossible outside China today, without a breakthrough in online financial transaction protocols.
 
@@ -48,3 +48,6 @@ However, the main disadvantage of such Forth port is "too much to swallow" &ndas
 Over this period of time, Phos has been ported to C, C++, Python and Java. However, a sustainable business model is needed to attract more collaborators, despite various other attractive features of Phos. The final breakthrough came in the form of ID-less transaction using asymmetric cryptography, which allow us to construct the foundation of Phos Cloudless Computing and PhosPay online tipping using cryptocurrencies.
 
 The development of Phos is a result of collaboration and contribution of various open source projects. As such it differs from commercial software development where organization is more structured. Anyway, if we were to measure Phos in man-months and number of contributors, we may convert 1 month to 1 man-week due to its part-time nature, since July 2017, involving no less than a dozen of contributing parties.
+
+
+- [ Phos Stack Machine Shell: ](https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md) A programmable shell using a universal interface script based on Forth like Reverse Polish Notation, hosted within a program, written in any known high level programming language. 
