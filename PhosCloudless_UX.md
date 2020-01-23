@@ -26,4 +26,15 @@ In summary, the novel contributions of Phos Cloudless Computing to UX design are
 
 - fundamentally changing the foundation of user experience &ndash; enabling users to modify the features and functionalities of a network application, at both front end and back end;
 
-- redefining the editing mechanims of graphical user interface, using Reverse Polish Notation and graph theory.
+- redefining the editing mechanims of graphical user interface, using Reverse Polish Notation and graph theory. 
+
+
+#### Development History 
+
+The development of shellet programming took shape around mid 2017 when I began implementing a Forth like shell in PHP. Prior to this, many open source projects existed to port complete Forth interpreters in high level programming languages, from C, C++ to JavaScript and Haskell etc. Theoretically, the Forth like Reverse Polish Notation syntax can be ported to any known programming language. One only need to make a little effort to search on Internet to find a Forth port on a target programming language. 
+
+However, the main disadvantage of such Forth port is "too much to swallow" &ndash; the additional complexity to port the whole Forth vocabulary (function libraries) makes it difficult for non-Forth programmers to understand the underlying principles and architecture. As such, I simplified the Forth architecture by breaking it down to its bare bones and reconstruct it. By early 2018, I have completed the implementation of the foundation of a Forth like shell in PHP and JavaScript: stack, branch and colon definition (function definition). Initially, the new implementation was called 5GL (Fifth Generation Graph Language). Eventually, it has been renamed as Phos i.e. "light" in Greek.
+
+Over this period of time, Phos has been ported to C, C++, Python and Java. However, a sustainable business model is needed to attract more collaborators, despite various other attractive features of Phos. The final breakthrough came in the form of ID-less transaction using asymmetric cryptography, which allow us to construct the foundation of Phos Cloudless Computing and PhosPay online tipping using cryptocurrencies.
+
+The development of Phos is a result of collaboration and contribution of various open source projects. As such it differs from commercial software development where organization is more structured. Anyway, if we were to measure Phos is man-months and number of contributors, we may convert 1 month to 1 man-week based on its part-time nature, since July 2017, involving no less than a dozen of contributing parties.
