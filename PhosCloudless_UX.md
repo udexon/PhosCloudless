@@ -1,14 +1,4 @@
-UX: not just visual, but cognitive
-
-e.g. GUI vs. RPN and graph
-
-Emphasize graph theory
-
-Create mock up floating cell for RPN input, with threejs background.
-
-Just use Imgui example.
-
-#### Imgui Android Phos Shellet Demo
+### Imgui Android Phos Shellet Demo
 
 <p> Figure 1 </p>
 <img src="https://github.com/udexon/EMYL/blob/master/E005_Imgui_Android/Imgui_Android_Start.png" width=300>
