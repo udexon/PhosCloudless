@@ -63,7 +63,15 @@ Illustrate using PhosPay JavaScript and Java.
 
 #### Other Benefits of Free Software Revolution 2.0
 
+Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet impossible to execute within a practical timeline. The obstacles include:
+
+- ...
+
+:: cause & effect, list of causes, list of effects
+
 1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+
+One word at a time.
 
 - Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
 
