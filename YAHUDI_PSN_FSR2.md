@@ -11,26 +11,18 @@ In this project, we propose YAHUDI and Proletariat Social Networks, based on fun
 
 :: Must describe what is achievement in FSR2, ie. FSR1 is free source code. Must write in plain language people can understand and remember. Blank lines before :: to readability
 
-The benefits of FSR2 include:
+:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect); for each action/cause identify effect/result, or vice versa.
+
+The benefits of Free Software Revoltuion 2.0 (FSR2) include:
 
 - Freedom for users to modify features and functionalities of front end and back end processes IN EXECUTION down to a single line of code.
 
-1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+- absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
 
-:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect); for each action/cause identify effect/result, or vice versa.
-
-- Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
-
-Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
-
-:: Summarize the above
-
-:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
-
-:: Ageism
-Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
+:: explain benefits (effects) briefly at introduction. then details. finally explain all benefits
 
 
+#### YAHUDI
 
 YAHUDI stands for Yet Another Hybrid Upstream Downstream Interface, an Application Programming Interface (API) where the upstream (low level) code is written in a high level programming language (such as Java, JavaScript, C++ etc.) and the downstream (high level) code is written in a Forth like Reverse Polish Notation implementation known as Phos ("light" in Greek).
 
@@ -67,6 +59,23 @@ The ??? described in the previous section have been the de facto practices, as t
 Some programmers may still code directly in assembly language or Forth. 
 
 Illustrate using PhosPay JavaScript and Java.
+
+
+#### Other Benefits of Free Software Revolution 2.0
+
+1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+
+- Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
+
+Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
+
+:: Summarize the above
+
+:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
+
+:: Ageism
+Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
+
 
 
 
