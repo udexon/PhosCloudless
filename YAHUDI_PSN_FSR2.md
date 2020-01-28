@@ -17,7 +17,7 @@ The benefits of FSR2 include:
 
 1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
 
-:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect)
+:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect); for each action/cause identify effect/result, or vice versa.
 
 - Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
 
