@@ -1,11 +1,15 @@
-### The Next Class Struggle
+### From YAHUDI to Proletariat Social Networks: Free Software Revolution 2.0
 
-From YAHUDI to Proletariat Social Networks: Free Software Revolution 2.0
+The Next Class Struggle
+
+We define Free Software Revolution 1.0 as the period encompassing the creation of GNU Linux and tools to Google's acquisition of the Android operating system. The mobile computing era, empowered by Android and iOS, saw the rise of tech giants and start-ups worth trillions of USD, as well as cryptocurrencies. 
+
+However, in some fundamental ways, the freedom of software development stagnated, as the front end apps and back end services are increasingly dominated by invisible corporate entities, without anyone proposing a viable solution. 
+
+In this project, we propose YAHUDI and Proletariat Social Networks, based on fundamental breakthroughs in employing Forth like Reverse Polish Notation in stack machine shells embedded in programs written in any known programming language, as well as an ID-less messaging system based on asymmetric cryptography, making Cloudless Computing possible.
 
 
-We define Free Software Revolution 1.0 as the period encompassing the creation of GNU Linux and tools to Google's acquisition of the Android operating system. 
-
-:: Must describe what is achievement in FSR2, ie. FSR1 is free source code. Must write in plain language people can understand and remember.
+:: Must describe what is achievement in FSR2, ie. FSR1 is free source code. Must write in plain language people can understand and remember. Blank lines before :: to readability
 
 The benefits of FSR2 include:
 
@@ -17,16 +21,14 @@ Other commercial benefits are derived from the above? Mechanism of transferring 
 
 1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
 
-Compared to FSR1, readers only perceive new ideas based on what they know. 
+:: Summarize the above
+
+:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
 
 :: Ageism
 Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
 
-The mobile computing era, empowered by Android and iOS, saw the rise of tech giants and start-ups worth trillions of USD, as well as cryptocurrencies. 
 
-However, in some fundamental ways, the freedom of software development stagnated, as the front end apps and back end services are increasingly dominated by invisible corporate entities, without anyone proposing a viable solution. 
-
-In this project, we propose YAHUDI and Proletariat Social Networks, based on fundamental breakthroughs in employing Forth like Reverse Polish Notation in stack machine shells embedded in programs written in any known programming language, as well as an ID-less messaging system based on asymmetric cryptography, making Cloudless Computing possible.
 
 YAHUDI stands for Yet Another Hybrid Upstream Downstream Interface, an Application Programming Interface (API) where the upstream (low level) code is written in a high level programming language (such as Java, JavaScript, C++ etc.) and the downstream (high level) code is written in a Forth like Reverse Polish Notation implementation known as Phos ("light" in Greek).
 
