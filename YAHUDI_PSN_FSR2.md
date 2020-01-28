@@ -15,11 +15,13 @@ The benefits of FSR2 include:
 
 - Freedom for users to modify features and functionalities of front end and back end processes IN EXECUTION down to a single line of code.
 
+1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+
+:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect)
+
 - Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
 
 Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
-
-1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
 
 :: Summarize the above
 
