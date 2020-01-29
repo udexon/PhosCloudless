@@ -26,13 +26,13 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:
     - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
-- [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel "one word at a time" approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
+- [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel ___"one word at a time"___ approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
 - One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
   - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
   - Highlight YAHUDI can be used to interface any programming language to Phos
   - YAHUDI (cause) helps recruitment and training of new programmers for open source projects (effect).
-  
+  - [ YAHUDI: Yet Another Hybrid Upstream Downstream Interface ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#yahudi-yet-another-hybrid-upstream-downstream-interface)
   - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
 
 - Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
