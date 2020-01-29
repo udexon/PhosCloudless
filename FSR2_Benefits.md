@@ -21,9 +21,10 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
  
   - Without a substantial number of users willing to test drive a development project, it will never be ready for prime time.
   
-  - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol.
+  - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:
+    - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
-- Use learners as developers? ID-less system.
+- Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
 
   - This can be overcome by Phos ID-less Messaging Protocol. 
 
