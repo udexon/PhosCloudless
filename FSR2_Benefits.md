@@ -26,7 +26,7 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 
 - Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
 
-  - This can be overcome by Phos ID-less Messaging Protocol. 
+  - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md)
 
   - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
 
