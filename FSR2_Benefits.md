@@ -13,21 +13,6 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages. This causes the difficulties in recruiting sufficient number of collaborators for each project and the cumulative effect of this problem is cannot be underestimated.
   - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel ___"one word at a time"___ approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
-  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
-  - Highlight YAHUDI can be used to interface any programming language to Phos
-  - YAHUDI (cause) helps recruitment and training of new programmers for open source projects (effect).
-  - [ YAHUDI: Yet Another Hybrid Upstream Downstream Interface ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#yahudi-yet-another-hybrid-upstream-downstream-interface)
-  - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
-
-- __Old guards__:
-
-Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
-
-Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
-
-Add ageism here.
-
-
 3.  Users are not free to modify the features and code of social media apps or other software.
 
 - [ Live Editing An App & Service ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#a-new-class-struggle-live-editing-an-app--service)
@@ -118,6 +103,20 @@ __Lower Barriers__
 __One word at a time__
 
 Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
+
+  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+  - Highlight YAHUDI can be used to interface any programming language to Phos
+  - YAHUDI (cause) helps recruitment and training of new programmers for open source projects (effect).
+  - [ YAHUDI: Yet Another Hybrid Upstream Downstream Interface ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#yahudi-yet-another-hybrid-upstream-downstream-interface)
+  - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
+
+- __Old guards__:
+
+Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
+
+Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
+
+Add ageism here.
 
 
 #### 2.3 __Metaprogramming__
