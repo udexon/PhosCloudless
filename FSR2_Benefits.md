@@ -65,42 +65,23 @@ We further consider a Cloudless Computing Platform.
 Cloudless vs. cloud. Like Linux cloning Unix.
 
 
+6. __Old guards__
 
-#### Cloning: A Low Hanging Fruit
-
-- Perhaps the fact that GNU Linux and other free software projects cloned the Unix operating system too successfully has resulted in most people forgetting that cloning itself is not much of an innovative exercise. 
-
-While cloning does not diminish the usefulness of GNU Linux and related free software, it also proved that it is possible to cloning commercial systems such as social media systems as free software projects.
-
-All components of MAGAF are open source. May need to re build missing parts. Or start with projects like Signal. 
-
-Phos Cloudless is the platform that can glue all  open source components, in whatever programming languages, during execution (using Phos messaging) and training new programmers (YAHUDI simplifying learning).
-
-- With all the above, possible to achieve?
-
-- How?
-
-- Highlight YAHUDI as method to recruit collaborators for all project owners.
-
-YAHUDI can overcome this ....
-
-Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+Unlike the initial free software movement, today we need to fight the establishment -- old guards .... Descendants and proponents of old software.
 
 
-__Metaprogramming__
 
-Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
+
 
 :: Vision action
 
 Vision and action. Vision is free software that users can modify live. Action is ID-less messaging. 
 
-:: Old guards
-
-Unlike the initial free software movement, today we need to fight the establishment -- old guards .... Descendants and proponents of old software.
 
 
 __Ageism__
+
+(Ageism is related to programmer fragmentation. Old programmers have more value when fragmentation is overcome.)
 
 :: Ageism // prepend paragraph with word, like colon definition. Then relate paragraphs using labels. Next, lower level of hypertext. Integrate with graph of questions
 
@@ -108,11 +89,6 @@ __Ageism__
 
 Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
 
-先数后算
-
-Homoiconification: All code can be transformed to homoiconic form from top down. How deep to covert depends on convenience.
-
-同相化 转换为后算式 
 
 #### Live Editing of Code while Programs are _IN EXECUTION_
 
@@ -154,6 +130,45 @@ Appeal to readers, beginners and experts, Free Software 2.0, remaking social net
 :: Old model, independent program
 :: Jump address of program
 :: Program modification
+
+All components of MAGAF are open source. May need to re build missing parts. Or start with projects like Signal. 
+
+Phos Cloudless is the platform that can glue all  open source components, in whatever programming languages, during execution (using Phos messaging) and training new programmers (YAHUDI simplifying learning).
+
+- With all the above, possible to achieve?
+
+- How?
+
+- Highlight YAHUDI as method to recruit collaborators for all project owners.
+
+YAHUDI can overcome this ....
+
+Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+
+
+#### Cloning: A Low Hanging Fruit
+
+(Cloning is the result/effect of YAHUDI helping project owners to recruit collaborators, improving the components used for Proletariat Social Network &ndash; ___a network owned by everyone___.)
+
+- Perhaps the fact that GNU Linux and other free software projects cloned the Unix operating system too successfully has resulted in most people forgetting that cloning itself is not much of an innovative exercise. 
+
+While cloning does not diminish the usefulness of GNU Linux and related free software, it also proved that it is possible to cloning commercial systems such as social media systems as free software projects.
+
+
+
+__Metaprogramming__
+
+(Metaprograming high level view of YAHUDI, One Word at A Time, bridge to mathematics and artificial intelligence.)
+
+Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
+
+先数后算
+
+Homoiconification: All code can be transformed to homoiconic form from top down. How deep to covert depends on convenience.
+
+同相化 转换为后算式 
+
+
 
 :: Notes
 
