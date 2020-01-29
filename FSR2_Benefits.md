@@ -69,49 +69,6 @@ Cloudless vs. cloud. Like Linux cloning Unix.
 Vision and action. Vision is free software that users can modify live. Action is ID-less messaging. 
 
 
-#### Benefits to Programmers: Young and Old
-
-__Ageism__
-
-(Ageism is related to programmer fragmentation. Old programmers have more value when fragmentation is overcome.)
-
-:: Ageism // prepend paragraph with word, like colon definition. Then relate paragraphs using labels. Next, lower level of hypertext. Integrate with graph of questions
-
-- Most prospective group to develop Phos would be old programmers, facing age discrimination. 
-
-Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
-
-__Lower Barriers__
-
-1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
-
-__One word at a time__
-
-Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
-
-
-
-#### Live Editing of Code while Programs are _IN EXECUTION_
-
-Enable on the fly modifications
-
-Beginners concern is learning new words. How? 
-
-Can execute RPN without recompiling. Most important benefits for beginners. Changing code in host programming language is a huge barrier of entry.
-
-
-:: Old model, independent program
-
-The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
-
-:: Jump address of program
-
-Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
-
-:: // Use words from paragraph as label
-Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
-
-
 #### YAHUDI == One Word at A Time
 
 YAHUDI == Static. Live Edit == Dynamic modification of code.
@@ -145,6 +102,48 @@ Phos Cloudless is the platform that can glue all  open source components, in wha
 YAHUDI can overcome this ....
 
 Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+
+
+#### Benefits to Programmers: Young and Old
+
+__Ageism__
+
+(Ageism is related to programmer fragmentation. Old programmers have more value when fragmentation is overcome.)
+
+:: Ageism // prepend paragraph with word, like colon definition. Then relate paragraphs using labels. Next, lower level of hypertext. Integrate with graph of questions
+
+- Most prospective group to develop Phos would be old programmers, facing age discrimination. 
+
+Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
+
+__Lower Barriers__
+
+1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+
+__One word at a time__
+
+Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
+
+
+#### Live Editing of Code while Programs are _IN EXECUTION_
+
+Enable on the fly modifications
+
+Beginners concern is learning new words. How? 
+
+Can execute RPN without recompiling. Most important benefits for beginners. Changing code in host programming language is a huge barrier of entry.
+
+
+:: Old model, independent program
+
+The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
+
+:: Jump address of program
+
+Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
+
+:: // Use words from paragraph as label
+Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
 
 
 #### Cloning: A Low Hanging Fruit
