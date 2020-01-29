@@ -24,12 +24,16 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:
     - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
-- Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
+- Phos stack machine shell (Shellet) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel "one word at a time" approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population.
+
+Shellet or Smashlet refers to a shell embedded within a program (hence the "&ndash;-let" suffix) derived from the minimalist Forth architecture.
 
   - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md)
 
-  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+- Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+  - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
 
+- Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
 
 :: cause & effect, list of causes, list of effects; move finished sentences to front, unfinished at the back.
 
