@@ -74,7 +74,7 @@ Microsoft former CEO Steve Balmer recognized free software as the biggest threat
 :: indent list of lables
 
 
-#### A New Class Struggle
+#### A New Class Struggle: Live Editing An App & Service
 
 As we enter a new decade in 2020, a new class struggle has emerged: 
 - Users are not free to modify the features and code of social media apps or other software. 
