@@ -39,6 +39,8 @@ Shellet programming (SHLP) == YAHUDI + Live Edit
 
 data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
 
+- absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
+
 - Proletariat Social Networks
 
 - Phos Cloudless Computing Platform
@@ -109,6 +111,7 @@ __One word at a time__
 
 Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
 
+
 #### 2.3 __Metaprogramming__
 
 (Metaprograming high level view of YAHUDI, One Word at A Time, bridge to mathematics and artificial intelligence.)
@@ -126,6 +129,9 @@ Homoiconification: All code can be transformed to homoiconic form from top down.
 
 
 #### 3.1 Live Editing of Code while Programs are _IN EXECUTION_
+
+- Freedom for users to modify features and functionalities of front end and back end processes IN EXECUTION down to a single line of code.
+
 
 Enable on the fly modifications
 
@@ -156,8 +162,7 @@ While cloning does not diminish the usefulness of GNU Linux and related free sof
 
 
 
-
-:: Notes
+#### Notes
 
 Default label to first words of paragraph if unlabeled.
 
