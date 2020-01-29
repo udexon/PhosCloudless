@@ -19,14 +19,14 @@
 
 Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet impossible to execute within a practical timeline. The obstacles include:
 
-- Saturation of services: No one is going to go through the hassle of creating yet another user account for a new service whose future is unknown and yet has only a fraction of features of the established apps and services.
+1. Saturation of services: No one is going to go through the hassle of creating yet another user account for a new service whose future is unknown and yet has only a fraction of features of the established apps and services.
  
   - Without a substantial number of users willing to test drive a development project, it will never be ready for prime time.
   - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:    
     - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
 
-- Fragmentation of programmers due to programming languages;
+2. Fragmentation of programmers due to programming languages;
   - One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages. This causes the difficulties in recruiting sufficient number of collaborators for each project and the cumulative effect of this problem is cannot be underestimated.
   - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel ___"one word at a time"___ approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
@@ -35,6 +35,10 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - YAHUDI (cause) helps recruitment and training of new programmers for open source projects (effect).
   - [ YAHUDI: Yet Another Hybrid Upstream Downstream Interface ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#yahudi-yet-another-hybrid-upstream-downstream-interface)
   - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
+
+3.  Users are not free to modify the features and code of social media apps or other software.
+
+- [ Live Editing An App & Service ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#a-new-class-struggle-live-editing-an-app--service)
 
 - Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
 
