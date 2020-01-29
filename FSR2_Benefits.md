@@ -26,7 +26,7 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
     - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
 
-2. Fragmentation of programmers due to programming languages;
+2. Fragmentation of programmers due to programming languages:
   - One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages. This causes the difficulties in recruiting sufficient number of collaborators for each project and the cumulative effect of this problem is cannot be underestimated.
   - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel ___"one word at a time"___ approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
@@ -42,21 +42,13 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 
 Shellet programming (SHLP) == YAHUDI + Live Edit
 
-4. Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
+4. __Old guards__:
 
-__Old guards__
+Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
 
 Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
 
 Add ageism here.
-
-__Lower Barriers__
-
-1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
-
-__One word at a time__
-
-Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
 
 
 5. Ownership of data, device and code:
@@ -77,6 +69,7 @@ Cloudless vs. cloud. Like Linux cloning Unix.
 Vision and action. Vision is free software that users can modify live. Action is ID-less messaging. 
 
 
+#### Benefits to Programmers: Young and Old
 
 __Ageism__
 
@@ -87,6 +80,15 @@ __Ageism__
 - Most prospective group to develop Phos would be old programmers, facing age discrimination. 
 
 Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
+
+__Lower Barriers__
+
+1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+
+__One word at a time__
+
+Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
+
 
 
 #### Live Editing of Code while Programs are _IN EXECUTION_
