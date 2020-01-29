@@ -18,13 +18,6 @@ It contrasts with conventional API where the caller and callee are usually writt
 In YAHUDI, the upstream programming languages are different while the downstream programming language is Phos, hence convergence, represented by the letter Y, hence YAHUDI.
 
 
-#### ID-less Messaging & Cloudless Computing
-
-Existing cloud computing services rely on centralized identity management for coordination and messaging. Our ID-less messaging system enables decentralized coordination as well as bridging amongst existing cloud infrastructure, resulting in Cloudless Computing.
-
-This leads to truly untraceable anonymous communications, which can further enhance exchanges of cryptocurrencies, national currencies and bullions, finally bringing cryptocurrencies to 99% of the masses.
-
-
 #### Ecosystem of Programming Languages and Division of Labour
 
 In today's programming ecosystem, the lowest level or upstream functions are usually written in C/C++, or more precisely, compiled using GNU C/C++ or other equivalent open source compilers. 
