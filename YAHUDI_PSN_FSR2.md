@@ -119,8 +119,10 @@ Microsoft former CEO Steve Balmer recognized free software as the biggest threat
 - :: Old guards
 - :: Ageism
 
-:: New class struggle
-As we enter a new decade in 2020, a new class struggle has emerged: Users are not free to modify the features and code of social media apps or other software. 
+#### A New Class Struggle
+
+As we enter a new decade in 2020, a new class struggle has emerged: 
+- Users are not free to modify the features and code of social media apps or other software. 
 
 Readers may ask,
 
@@ -134,7 +136,8 @@ Consider an alternative perspective,
 
 - Is it possible to modify a server program without owning it?
 
-[ Phos Shellet Examples ]()
+The solution is given here:
+- [ Phos Shellet Examples ]()
 
 Phos shellet demonstrates that it is possible to modify a client or a server program _WHILE IN EXECUTION_.
 
