@@ -1,25 +1,12 @@
 ### From YAHUDI to Proletariat Social Networks: Free Software Revolution 2.0
 
-The Next Class Struggle
-
 We define Free Software Revolution 1.0 as the period encompassing the creation of GNU Linux and tools to Google's acquisition of the Android operating system. The mobile computing era, empowered by Android and iOS, saw the rise of tech giants and start-ups worth trillions of USD, as well as cryptocurrencies. 
 
 However, in some fundamental ways, the freedom of software development stagnated, as the front end apps and back end services are increasingly dominated by invisible corporate entities, without anyone proposing a viable solution. 
 
-In this project, we propose YAHUDI and Proletariat Social Networks, based on fundamental breakthroughs in employing Forth like Reverse Polish Notation in stack machine shells embedded in programs written in any known programming language, as well as an ID-less messaging system based on asymmetric cryptography, making Cloudless Computing possible.
+In this project, we propose YAHUDI and Proletariat Social Networks, based on fundamental breakthroughs in employing Forth like Reverse Polish Notation in stack machine shells embedded in programs written in any known programming language, as well as an ID-less messaging system based on asymmetric cryptography, making cloudless computing possible.
 
-
-:: Must describe what is achievement in FSR2, ie. FSR1 is free source code. Must write in plain language people can understand and remember. Blank lines before :: to readability
-
-:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect); for each action/cause identify effect/result, or vice versa.
-
-The benefits of Free Software Revoltuion 2.0 (FSR2) include:
-
-- Freedom for users to modify features and functionalities of front end and back end processes IN EXECUTION down to a single line of code.
-
-- absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
-
-:: explain benefits (effects) briefly at introduction. then details. finally explain all benefits
+- [ The benefits of Free Software Revoltuion 2.0 (FSR2) ](https://github.com/udexon/PhosCloudless/blob/master/FSR2_Benefits.md)
 
 
 #### YAHUDI: Yet Another Hybrid Upstream Downstream Interface
@@ -35,8 +22,7 @@ In YAHUDI, the upstream programming languages are different while the downstream
 
 Existing cloud computing services rely on centralized identity management for coordination and messaging. Our ID-less messaging system enables decentralized coordination as well as bridging amongst existing cloud infrastructure, resulting in Cloudless Computing.
 
- this leads to truly untraceable anonymous communications, which can further enhance exchanges of cryptocurrencies, national currencies and bullions, finally bringing cryptocurrencies to 99% of the masses.
-
+This leads to truly untraceable anonymous communications, which can further enhance exchanges of cryptocurrencies, national currencies and bullions, finally bringing cryptocurrencies to 99% of the masses.
 
 
 #### Ecosystem of Programming Languages and Division of Labour
@@ -71,8 +57,6 @@ Indeed, the free software movement was a class struggle that liberated software 
 
 Microsoft former CEO Steve Balmer recognized free software as the biggest threat to Microsoft's hegemony and he infamously accused Linux as Communism. 
 
-:: indent list of lables
-
 
 #### A New Class Struggle: Live Editing An App & Service
 
@@ -92,7 +76,7 @@ Consider an alternative perspective,
 - Is it possible to modify a server program without owning it?
 
 The solution is given here:
-- [ Phos Shellet Examples ]()
+- [ Phos Stack Machine Shell (Shellet) Examples ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md)
 
 Phos shellet demonstrates that it is possible to modify a client or a server program _WHILE IN EXECUTION_.
 
@@ -102,3 +86,16 @@ So the question boils down to,
 
 In short, we have reduce the technical problem to a business problem.
 
+
+#### Notes
+
+:: Must describe what is achievement in FSR2, ie. FSR1 is free source code. Must write in plain language people can understand and remember. Blank lines before :: to readability
+
+:: action followed by result/benefit, as above; categorize paragraphs as action or result (cause and effect); for each action/cause identify effect/result, or vice versa.
+
+
+:: explain benefits (effects) briefly at introduction. then details. finally explain all benefits
+
+The Next Class Struggle
+
+:: indent list of lables
