@@ -76,15 +76,16 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
 
 
-:: cause & effect, list of causes, list of effects
+:: cause & effect, list of causes, list of effects; move finished sentences to front, unfinished at the back.
 
 __Lower Barriers__
 
 1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
 
-One word at a time.
 
 - Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
+
+__One word at a time__
 
 Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
 
@@ -92,8 +93,6 @@ Other commercial benefits are derived from the above? Mechanism of transferring 
 
 :: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
 
-:: Ageism
-Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
 
 
 
@@ -107,6 +106,7 @@ Microsoft former CEO Steve Balmer recognized free software as the biggest threat
 
 :: indent list of lables
 
+- __One word at a time__
 - __Lower Barriers__
 - __Karl Marx Class Struggle__
 - __CLONING__
@@ -197,11 +197,16 @@ Vision and action. Vision is free software that users can modify live. Action is
 Unlike the initial free software movement, today we need to fight the establishment -- old guards .... Descendants and proponents of old software.
 
 
+__Ageism__
 
 :: Ageism // prepend paragraph with word, like colon definition. Then relate paragraphs using labels. Next, lower level of hypertext. Integrate with graph of questions
-- Most prospective group might be old programmers, facing age discrimination. 
 
-How to combine multiple issues into one article?
+- Most prospective group to develop Phos would be old programmers, facing age discrimination. 
+
+Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
+
+
+- How to combine multiple issues into one article?
 
 List issues, use diagram or graph to show relationship of issues?
 
