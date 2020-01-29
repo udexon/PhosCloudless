@@ -61,39 +61,6 @@ Some programmers may still code directly in assembly language or Forth.
 Illustrate using PhosPay JavaScript and Java.
 
 
-#### Other Benefits of Free Software Revolution 2.0
-
-Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet impossible to execute within a practical timeline. The obstacles include:
-
-- Saturation of services: No one is going to go through the hassle of creating yet another user account for a new service whose future is unknown and yet has only a fraction of features of the established apps and services.
- 
-  - Without a substantial number of users willing to test drive a development project, it will never be ready for prime time.
-
-  - Use learners as developers? ID-less system.
-
-  - This can be overcome by Phos ID-less Messaging Protocol. 
-
-  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
-
-
-:: cause & effect, list of causes, list of effects; move finished sentences to front, unfinished at the back.
-
-__Lower Barriers__
-
-1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
-
-
-- Privacy etc. Control of own data … Can audit privacy of message because code is transparent to all
-
-__One word at a time__
-
-Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
-
-:: Summarize the above
-
-:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
-
-
 
 
 __Karl Marx Class Struggle__
@@ -106,18 +73,6 @@ Microsoft former CEO Steve Balmer recognized free software as the biggest threat
 
 :: indent list of lables
 
-- __One word at a time__
-- __Lower Barriers__
-- __Karl Marx Class Struggle__
-- __CLONING__
-- :: Old model, independent program
-- :: Jump address of program
-- :: Program modification
-
-- :: New class struggle
-- :: Vision action
-- :: Old guards
-- :: Ageism
 
 #### A New Class Struggle
 
@@ -147,6 +102,51 @@ So the question boils down to,
 
 In short, we have reduce the technical problem to a business problem.
 
+- :: New class struggle
+- Other Benefits of Free Software Revolution 2.0
+- __One word at a time__
+- __Lower Barriers__
+- __Karl Marx Class Struggle__
+- __CLONING__
+- :: Old model, independent program
+- :: Jump address of program
+- :: Program modification
+- :: Vision action
+- :: Old guards
+- :: Ageism
+
+
+
+#### Other Benefits of Free Software Revolution 2.0
+
+Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet impossible to execute within a practical timeline. The obstacles include:
+
+- Saturation of services: No one is going to go through the hassle of creating yet another user account for a new service whose future is unknown and yet has only a fraction of features of the established apps and services.
+ 
+  - Without a substantial number of users willing to test drive a development project, it will never be ready for prime time.
+
+- Use learners as developers? ID-less system.
+
+  - This can be overcome by Phos ID-less Messaging Protocol. 
+
+  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+
+
+:: cause & effect, list of causes, list of effects; move finished sentences to front, unfinished at the back.
+
+__Lower Barriers__
+
+1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
+
+__One word at a time__
+
+Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
+
+:: Summarize the above
+
+:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
+
+
 #### Phos Cloudless Computing Platform
 
 [ Phos ID-less Messaging Protocol ]()
@@ -155,11 +155,10 @@ We further consider a Cloudless Computing Platform.
 
 Cloudless vs. cloud. Like Linux cloning Unix.
 
-Perhaps it is not a common knowledge that 
-
 :: label paragraph with double __ (bold); always copy labels to reorganize them elsewhere
 
-__CLONING__
+
+#### Cloning: A Low Hanging Fruit
 
 - Perhaps the fact that GNU Linux and other free software projects cloned the Unix operating system too successfully has resulted in most people forgetting that cloning itself is not much of an innovative exercise. 
 
