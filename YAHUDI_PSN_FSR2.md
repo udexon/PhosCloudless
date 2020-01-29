@@ -95,24 +95,26 @@ Transfer knowledge in one programming language to others. Experience in 2 or mor
 
 
 
-
+__Karl Marx Class Struggle__
 
 Karl Marx could have been a computer scientist for proposing class struggle that can be generalized across vast categories of people. 
 
 Indeed, the free software movement was a class struggle that liberated software users from the tyranny of proprietary Unix systems, by giving them another choice that is completely free, both financially as well as the rights to learn and innovate.
 
-Microsoft former CEO Steve Balmer recognized free software as the biggest threat to Microsoft's hegemony and 
- he infamously accused Linux as Communism. 
+Microsoft former CEO Steve Balmer recognized free software as the biggest threat to Microsoft's hegemony and he infamously accused Linux as Communism. 
 
+:: indent list of lables
 
-:: Old model, independent program
-:: Jump address of program
-:: Program modification
+- __Karl Marx Class Struggle__
+- __CLONING__
+- :: Old model, independent program
+- :: Jump address of program
+- :: Program modification
 
-:: New class struggle
-:: Vision action
-:: Old guards
-:: Ageism
+- :: New class struggle
+- :: Vision action
+- :: Old guards
+- :: Ageism
 
 :: New class struggle
 As we enter a new decade in 2020, a new class struggle has emerged: Users are not free to modify the features and code of social media apps or other software. 
@@ -149,7 +151,11 @@ Cloudless vs. cloud. Like Linux cloning Unix.
 
 Perhaps it is not a common knowledge that 
 
-Perhaps the fact that GNU Linux and other free software projects cloned the Unix operating system too successfully has resulted in most people forgetting that cloning itself is not much of an innovative exercise. 
+:: label paragraph with double __ (bold); always copy labels to reorganize them elsewhere
+
+__CLONING__
+
+- Perhaps the fact that GNU Linux and other free software projects cloned the Unix operating system too successfully has resulted in most people forgetting that cloning itself is not much of an innovative exercise. 
 
 While cloning does not diminish the usefulness of GNU Linux and related free software, it also proved that it is possible to cloning commercial systems such as social media systems as free software projects.
 
@@ -165,7 +171,9 @@ Phos Cloudless is the platform that can glue all  open source components, in wha
 
 :: How to link previous to next paragraph?
 
-One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
+:: indent paragraphs that can later become a section
+
+- One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
 
 YAHUDI can overcome this ....
 
