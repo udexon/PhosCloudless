@@ -4,9 +4,11 @@
 - __Lower Barriers__
 - __Karl Marx Class Struggle__
 - __CLONING__
+
 - :: Old model, independent program
 - :: Jump address of program
 - :: Program modification
+
 - :: Vision action
 - :: Old guards
 - :: Ageism
@@ -24,18 +26,14 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:
     - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
-- Phos stack machine shell (Shellet) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel "one word at a time" approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population.
+- [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel "one word at a time" approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
-Shellet or Smashlet refers to a shell embedded within a program (hence the "&ndash;-let" suffix) derived from the minimalist Forth architecture.
-
-  - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md)
-
-- Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+- One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
+  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
   - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
 
 - Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
 
-:: cause & effect, list of causes, list of effects; move finished sentences to front, unfinished at the back.
 
 __Lower Barriers__
 
@@ -77,28 +75,26 @@ Phos Cloudless is the platform that can glue all  open source components, in wha
 
 - Highlight YAHUDI as method to recruit collaborators for all project owners.
 
+YAHUDI can overcome this ....
+
+
 :: How to link previous to next paragraph?
 
 :: indent paragraphs that can later become a section
 
-- One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
-
-YAHUDI can overcome this ....
-
 Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
 
 
-
-:: Explain in detail
+__Metaprogramming__
 
 Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
 
-:: Paragraph label is one level below section or subsection, which has markdown
-
 :: Vision action
+
 Vision and action. Vision is free software that users can modify live. Action is ID-less messaging. 
 
 :: Old guards
+
 Unlike the initial free software movement, today we need to fight the establishment -- old guards .... Descendants and proponents of old software.
 
 
@@ -109,13 +105,6 @@ __Ageism__
 - Most prospective group to develop Phos would be old programmers, facing age discrimination. 
 
 Transfer knowledge in one programming language to others. Experience in 2 or more programming languages improve employability by a lot. Knowledge in stack machine is fundamental and useful in many applications.
-
-
-- How to combine multiple issues into one article?
-
-List issues, use diagram or graph to show relationship of issues?
-
-
 
 先数后算
 
@@ -147,9 +136,11 @@ Appeal to readers, beginners and experts, Free Software 2.0, remaking social net
 :: Program modification
 
 :: Old model, independent program
+
 The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
 
 :: Jump address of program
+
 Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
 
 :: // Use words from paragraph as label
@@ -159,4 +150,14 @@ Default label to first words of paragraph if unlabeled.
 
 Or, highlight words in paragraph as label.
 
+:: cause & effect, list of causes, list of effects; move finished sentences to front, unfinished at the back.
 
+
+:: - How to combine multiple issues into one article?
+
+:: List issues, use diagram or graph to show relationship of issues?
+
+
+:: Explain in detail
+
+:: Paragraph label is one level below section or subsection, which has markdown
