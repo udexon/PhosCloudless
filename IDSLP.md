@@ -1,6 +1,4 @@
 ### ID-less Shellet Programming: Towards Cloudless Computing
- 
- (IDSLP)
 
 We propose perhaps the most significant breakthrough in programming since the invention of the Forth programming language in 1968 and the implementation of asymmetric cryptography in 1973.  
 
