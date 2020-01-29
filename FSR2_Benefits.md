@@ -1,20 +1,3 @@
-- :: New class struggle
-- Benefits of Free Software Revolution 2.0
-- __One word at a time__
-- __Lower Barriers__
-- __Karl Marx Class Struggle__
-- __CLONING__
-
-- :: Old model, independent program
-- :: Jump address of program
-- :: Program modification
-
-- :: Vision action
-- :: Old guards
-- :: Ageism
-
-
-
 ### Benefits of Free Software Revolution 2.0
 
 Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet it is actually impossible to do it within a practical timeline. The obstacles include:
@@ -36,13 +19,7 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
   - [ YAHUDI: Yet Another Hybrid Upstream Downstream Interface ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#yahudi-yet-another-hybrid-upstream-downstream-interface)
   - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
 
-3.  Users are not free to modify the features and code of social media apps or other software.
-
-- [ Live Editing An App & Service ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#a-new-class-struggle-live-editing-an-app--service)
-
-Shellet programming (SHLP) == YAHUDI + Live Edit
-
-4. __Old guards__:
+- __Old guards__:
 
 Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
 
@@ -51,25 +28,35 @@ Use learners as developers, one word at a time, Earn Money as You Learn. ID-less
 Add ageism here.
 
 
-5. Ownership of data, device and code:
+3.  Users are not free to modify the features and code of social media apps or other software.
 
-#### Phos Cloudless Computing Platform
+- [ Live Editing An App & Service ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#a-new-class-struggle-live-editing-an-app--service)
 
-[ Phos ID-less Messaging Protocol ]()
+Shellet programming (SHLP) == YAHUDI + Live Edit
+
+
+4. Ownership of data, code and device:
+
+data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
+
+- Proletariat Social Networks
+
+- Phos Cloudless Computing Platform
 
 We further consider a Cloudless Computing Platform.
 
 Cloudless vs. cloud. Like Linux cloning Unix.
 
-
-
-
 :: Vision action
 
-Vision and action. Vision is free software that users can modify live. Action is ID-less messaging. 
+Vision and action. 
+
+Vision is Proletariat Social Networks, Phos Cloudless Computing Platform. 
+
+Actions are free software Revolution 2.0: that users can modify live + ID-less messaging. 
 
 
-#### YAHUDI == One Word at A Time
+#### 2.1 YAHUDI == One Word at A Time
 
 YAHUDI == Static. Live Edit == Dynamic modification of code.
 
@@ -104,7 +91,7 @@ YAHUDI can overcome this ....
 Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
 
 
-#### Benefits to Programmers: Young and Old
+#### 2.2 Benefits to Programmers: Young and Old
 
 __Ageism__
 
@@ -124,8 +111,23 @@ __One word at a time__
 
 Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
 
+#### 2.3 __Metaprogramming__
 
-#### Live Editing of Code while Programs are _IN EXECUTION_
+(Metaprograming high level view of YAHUDI, One Word at A Time, bridge to mathematics and artificial intelligence.)
+
+Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
+
+先数后算
+
+Homoiconification: All code can be transformed to homoiconic form from top down. How deep to covert depends on convenience.
+
+同相化 转换为后算式 
+
+
+
+
+
+#### 3.1 Live Editing of Code while Programs are _IN EXECUTION_
 
 Enable on the fly modifications
 
@@ -146,7 +148,7 @@ Independent programs are not really independent. Just block of instructions with
 Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
 
 
-#### Cloning: A Low Hanging Fruit
+#### 3.2 Cloning: A Low Hanging Fruit
 
 (Cloning is the result/effect of YAHUDI helping project owners to recruit collaborators, improving the components used for Proletariat Social Network &ndash; ___a network owned by everyone___.)
 
@@ -154,19 +156,6 @@ Program modification as a mechanism of class struggle. Existing software model i
 
 While cloning does not diminish the usefulness of GNU Linux and related free software, it also proved that it is possible to cloning commercial systems such as social media systems as free software projects.
 
-
-
-__Metaprogramming__
-
-(Metaprograming high level view of YAHUDI, One Word at A Time, bridge to mathematics and artificial intelligence.)
-
-Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
-
-先数后算
-
-Homoiconification: All code can be transformed to homoiconic form from top down. How deep to covert depends on convenience.
-
-同相化 转换为后算式 
 
 
 
@@ -197,3 +186,20 @@ Or, highlight words in paragraph as label.
 :: How to link previous to next paragraph?
 
 :: indent paragraphs that can later become a section
+
+- :: New class struggle
+- Benefits of Free Software Revolution 2.0
+- __One word at a time__
+- __Lower Barriers__
+- __Karl Marx Class Struggle__
+- __CLONING__
+
+- :: Old model, independent program
+- :: Jump address of program
+- :: Program modification
+
+- :: Vision action
+- :: Old guards
+- :: Ageism
+
+
