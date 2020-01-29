@@ -56,6 +56,14 @@ Vision is Proletariat Social Networks, Phos Cloudless Computing Platform.
 Actions are free software Revolution 2.0: that users can modify live + ID-less messaging. 
 
 
+
+#### 1.1 ID-less Messaging & Cloudless Computing
+
+Existing cloud computing services rely on centralized identity management for coordination and messaging. Our ID-less messaging system enables decentralized coordination as well as bridging amongst existing cloud infrastructure, resulting in Cloudless Computing.
+
+This leads to truly untraceable anonymous communications, which can further enhance exchanges of cryptocurrencies, national currencies and bullions, finally bringing cryptocurrencies to 99% of the masses.
+
+
 #### 2.1 YAHUDI == One Word at A Time
 
 YAHUDI == Static. Live Edit == Dynamic modification of code.
