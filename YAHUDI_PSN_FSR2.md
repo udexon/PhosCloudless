@@ -78,6 +78,8 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 
 :: cause & effect, list of causes, list of effects
 
+__Lower Barriers__
+
 1 out of 1000 users may have an idea to improve a feature or function or just a colour or icon. Conventional FSR1 allow change of code, but to build and run, barriers too big, involve front end, back end, initializing variables. 
 
 One word at a time.
@@ -105,6 +107,7 @@ Microsoft former CEO Steve Balmer recognized free software as the biggest threat
 
 :: indent list of lables
 
+- __Lower Barriers__
 - __Karl Marx Class Struggle__
 - __CLONING__
 - :: Old model, independent program
