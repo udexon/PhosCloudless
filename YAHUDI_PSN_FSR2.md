@@ -22,16 +22,16 @@ The benefits of Free Software Revoltuion 2.0 (FSR2) include:
 :: explain benefits (effects) briefly at introduction. then details. finally explain all benefits
 
 
-#### YAHUDI
+#### YAHUDI: Yet Another Hybrid Upstream Downstream Interface
 
 YAHUDI stands for Yet Another Hybrid Upstream Downstream Interface, an Application Programming Interface (API) where the upstream (low level) code is written in a high level programming language (such as Java, JavaScript, C++ etc.) and the downstream (high level) code is written in a Forth like Reverse Polish Notation implementation known as Phos ("light" in Greek).
 
- It contrasts with conventional API where the caller and callee are usually written in the same programming language. In cases where the upstream code is written in C/C++ but the downstream code are in respective programming languages e.g. Python, Java, they are divergent, as they have a common upstream but different downstreams, figuratively represented as an inverted Y. 
+It contrasts with conventional API where the caller and callee are usually written in the same programming language. In cases where the upstream code is written in C/C++ but the downstream code are in respective programming languages e.g. Python, Java, they are divergent, as they have a common upstream but different downstreams, figuratively represented as an inverted Y. 
 
 In YAHUDI, the upstream programming languages are different while the downstream programming language is Phos, hence convergence, represented by the letter Y, hence YAHUDI.
 
 
-
+#### ID-less Messaging & Cloudless Computing
 
 Existing cloud computing services rely on centralized identity management for coordination and messaging. Our ID-less messaging system enables decentralized coordination as well as bridging amongst existing cloud infrastructure, resulting in Cloudless Computing.
 
