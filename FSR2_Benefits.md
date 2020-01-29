@@ -40,7 +40,9 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 
 - [ Live Editing An App & Service ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#a-new-class-struggle-live-editing-an-app--service)
 
-- Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
+4. Obstacle is ...
+
+Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
 
 
 __Lower Barriers__
