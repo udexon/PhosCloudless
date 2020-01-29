@@ -66,8 +66,15 @@ Illustrate using PhosPay JavaScript and Java.
 Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet impossible to execute within a practical timeline. The obstacles include:
 
 - Saturation of services: No one is going to go through the hassle of creating yet another user account for a new service whose future is unknown and yet has only a fraction of features of the established apps and services.
+ 
+  - Without a substantial number of users willing to test drive a development project, it will never be ready for prime time.
+
+  - Use learners as developers? ID-less system.
 
   - This can be overcome by Phos ID-less Messaging Protocol. 
+
+  - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+
 
 :: cause & effect, list of causes, list of effects
 
