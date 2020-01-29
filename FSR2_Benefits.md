@@ -30,6 +30,9 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 
 - One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
   - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
+  - Highlight YAHUDI can be used to interface any programming language to Phos
+  - YAHUDI (cause) helps recruitment and training of new programmers for open source projects (effect).
+  
   - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
 
 - Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system.
