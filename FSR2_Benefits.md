@@ -86,6 +86,17 @@ Next step is to recruit project owners to use Phos. Reward with Earn Money as Yo
 
 #### 2.2 Benefits to Programmers: Young and Old
 
+- __Old guards__:
+
+Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
+
+(Beginners + Old Programmers + Project Owners) fight Old Guards.
+
+ID-less system is important in EMYL, crucial to reward all, encourage learning and development.
+
+Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
+
+
 __Ageism__
 
 (Ageism is related to programmer fragmentation. Old programmers have more value when fragmentation is overcome.)
@@ -110,13 +121,6 @@ Other commercial benefits are derived from the above? Mechanism of transferring 
   - [ YAHUDI: Yet Another Hybrid Upstream Downstream Interface ](https://github.com/udexon/PhosCloudless/blob/master/YAHUDI_PSN_FSR2.md#yahudi-yet-another-hybrid-upstream-downstream-interface)
   - https://github.com/udexon/PhosCloudless/blob/master/IDSLP.md#shellet-a-shell-embedded-within-a-program
 
-- __Old guards__:
-
-Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
-
-Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
-
-Add ageism here.
 
 
 #### 2.3 __Metaprogramming__
