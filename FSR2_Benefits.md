@@ -22,14 +22,12 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 - Saturation of services: No one is going to go through the hassle of creating yet another user account for a new service whose future is unknown and yet has only a fraction of features of the established apps and services.
  
   - Without a substantial number of users willing to test drive a development project, it will never be ready for prime time.
+  - In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:    
+    - [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
 
-- One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
 
-
-In order to address this problem, we need to overcome the fundamental concept of user identity with an ID-less messaging protocol:    
-- [ Phos ID-less Messaging Protocol ](https://github.com/udexon/PhosPay/blob/master/PhosPay_Step_1.md)
-
-- One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages.
+- Fragmentation of programmers due to programming languages;
+  - One of the many obstacles project owners of open source repositories are facing is fragmentation of programmers due to programming languages. This causes the difficulties in recruiting sufficient number of collaborators for each project and the cumulative effect of this problem is cannot be underestimated.
   - [ Phos Stack Machine Shell (Shellet) ](https://github.com/udexon/PhosCloudless/blob/master/Phos_Imgui.md) is a Forth like shell that can be implemented in all known programming languages, thus making it a universal script that can be deployed across all cloud computing platforms. Phos script simplifies and revolutionizes learning of programming and mathematics with a novel ___"one word at a time"___ approach based on Reverse Polish Notation, making programming and mathematics more accessible to a much greater and younger population. Shellet refers to a shell embedded within a program (hence the "&ast;-let" suffix) derived from the minimalist Forth architecture.
 
   - Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
