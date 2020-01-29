@@ -47,9 +47,7 @@ We further consider a Cloudless Computing Platform.
 
 Cloudless vs. cloud. Like Linux cloning Unix.
 
-:: Vision action
-
-Vision and action. 
+- Vision and Action
 
 Vision is Proletariat Social Networks, Phos Cloudless Computing Platform. 
 
