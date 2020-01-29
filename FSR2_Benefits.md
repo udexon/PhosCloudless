@@ -1,5 +1,5 @@
 - :: New class struggle
-- Other Benefits of Free Software Revolution 2.0
+- Benefits of Free Software Revolution 2.0
 - __One word at a time__
 - __Lower Barriers__
 - __Karl Marx Class Struggle__
@@ -13,7 +13,7 @@
 
 
 
-#### Other Benefits of Free Software Revolution 2.0
+### Benefits of Free Software Revolution 2.0
 
 Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source code of many of the basic components of existing social media apps and services, to recreate or clone them is not technically impossible, yet impossible to execute within a practical timeline. The obstacles include:
 
