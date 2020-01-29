@@ -53,10 +53,8 @@ __One word at a time__
 
 Other commercial benefits are derived from the above? Mechanism of transferring user editing code to commercial rewards. Liberating more user productivity by making programming and learning of programming simpler.
 
-:: Summarize the above
 
-:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
-
+5. Ownership of data, device and code:
 
 #### Phos Cloudless Computing Platform
 
@@ -66,7 +64,6 @@ We further consider a Cloudless Computing Platform.
 
 Cloudless vs. cloud. Like Linux cloning Unix.
 
-:: label paragraph with double __ (bold); always copy labels to reorganize them elsewhere
 
 
 #### Cloning: A Low Hanging Fruit
@@ -86,11 +83,6 @@ Phos Cloudless is the platform that can glue all  open source components, in wha
 - Highlight YAHUDI as method to recruit collaborators for all project owners.
 
 YAHUDI can overcome this ....
-
-
-:: How to link previous to next paragraph?
-
-:: indent paragraphs that can later become a section
 
 Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
 
@@ -122,11 +114,30 @@ Homoiconification: All code can be transformed to homoiconic form from top down.
 
 同相化 转换为后算式 
 
+#### Live Editing of Code while Programs are _IN EXECUTION_
+
 Enable on the fly modifications
 
 Beginners concern is learning new words. How? 
 
 Can execute RPN without recompiling. Most important benefits for beginners. Changing code in host programming language is a huge barrier of entry.
+
+
+:: Old model, independent program
+
+The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
+
+:: Jump address of program
+
+Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
+
+:: // Use words from paragraph as label
+Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
+
+
+#### YAHUDI == One Word at A Time
+
+YAHUDI == Static. Live Edit == Dynamic modification of code.
 
 Still need experienced programmers to write Phos words for their programs, then only beginners can learn. 
 
@@ -140,21 +151,11 @@ RPN can be used to represent ideas in metaprogramming. As we write more programs
 
 Appeal to readers, beginners and experts, Free Software 2.0, remaking social networks with FS2?
 
-
 :: Old model, independent program
 :: Jump address of program
 :: Program modification
 
-:: Old model, independent program
-
-The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
-
-:: Jump address of program
-
-Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
-
-:: // Use words from paragraph as label
-Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
+:: Notes
 
 Default label to first words of paragraph if unlabeled.
 
@@ -171,3 +172,13 @@ Or, highlight words in paragraph as label.
 :: Explain in detail
 
 :: Paragraph label is one level below section or subsection, which has markdown
+
+:: Summarize the above
+
+:: Compared to FSR1, readers only perceive new ideas based on what they know. If label of paragraph not used, they will not appear in target, hence left as comments. If label appears multiple times, paragraphs are related. Figure out how to relate them.
+
+:: label paragraph with double __ (bold); always copy labels to reorganize them elsewhere
+
+:: How to link previous to next paragraph?
+
+:: indent paragraphs that can later become a section
