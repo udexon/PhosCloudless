@@ -42,8 +42,13 @@ Although by virtue of Free Software Revolution 1.0 (FSR1), users have the source
 
 4. Obstacle is ...
 
+__Old guards__
+
+Unlike the initial free software movement, today we need to fight the establishment -- old guards .... Descendants and proponents of old software.
+
 Use learners as developers, one word at a time, Earn Money as You Learn. ID-less system. PhosPay as incentive to learn and develop at the same time.
 
+Add ageism here.
 
 __Lower Barriers__
 
@@ -63,12 +68,6 @@ Other commercial benefits are derived from the above? Mechanism of transferring 
 We further consider a Cloudless Computing Platform.
 
 Cloudless vs. cloud. Like Linux cloning Unix.
-
-
-6. __Old guards__
-
-Unlike the initial free software movement, today we need to fight the establishment -- old guards .... Descendants and proponents of old software.
-
 
 
 
