@@ -135,6 +135,8 @@ We have outlined above 3 critical components for Free Software Revolution 2.0:
 
 With these 3 components, we are able to build EMYL Earn Money as You Learn. Otherwise, the obstacles against people adopting ... are ...
 
+One of the motivations of EMYL is to reward programmers fairly, from beginners to experts, based on revenues and market capitalizations of the biggest of tech corporations and Bitcoin.
+
 data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
 
 - absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
