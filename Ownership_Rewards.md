@@ -86,6 +86,8 @@ ___Phos provides metaprogramming features / words to help measure / manipulate c
 
 Phos extension can be used in edit (during edit, not execution) or execution mode. Most lightweight debugging extension, added as a source code module. Extensible. All of Forth properties.
 
+Conventional debuggers like GDB or similar are limited because facilities to add and compile live code is limited. All these can be done with Phos. Also GDB + Phos may result in new features?
+
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
 https://www.reddit.com/r/programming/comments/ew2a7y/lets_destroy_c/
