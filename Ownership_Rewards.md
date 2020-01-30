@@ -72,6 +72,8 @@ With these 3 components, we are able to build EMYL Earn Money as You Learn. Othe
 
 4. Please refer to for tipping ... (Phos Tipping Example).
 
+The above cannot be done without Shellet Programming and ID-less. Fragmented programmer communities, no economy of scale. Centralized ID management -- cannot grow, chicken and egg.
+
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
