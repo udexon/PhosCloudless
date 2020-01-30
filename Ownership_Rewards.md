@@ -1,12 +1,5 @@
 #### 4.1 Ownership of data, code and device:
 
-We have outlined above 3 critical components for Free Software Revolution 2.0:
-
-1. ID-less Messaging
-2. Hybrid Upstream Downstream Programming Interface
-3. Live Edit
-
-With these 3 components, we are able to build EMYL Earn Money as You Learn. Otherwise, the obstacles against people adopting ... are ...
 
 data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
 
@@ -58,8 +51,18 @@ Bitcon 600+ contributors
 Ethereum 400+ contributors
 ```
 
+#### 4.1.2 Earn Money as You Learn (EMYL)
+
 - Is it possible to reward free software programmers like MAGAF and Bitcoin?
 - How to reward free software programmers like MAGAF and Bitcoin?
+
+We have outlined above 3 critical components for Free Software Revolution 2.0:
+
+1. ID-less Messaging
+2. Hybrid Upstream Downstream Programming Interface
+3. Live Edit
+
+With these 3 components, we are able to build EMYL Earn Money as You Learn. Otherwise, the obstacles against people adopting ... are ...
 
 
 #### 4.2 Benefits to Programmers: Young and Old
