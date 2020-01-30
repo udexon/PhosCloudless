@@ -174,6 +174,35 @@ Program modification as a mechanism of class struggle. Existing software model i
 While cloning does not diminish the usefulness of GNU Linux and related free software, it also proved that it is possible to cloning commercial systems such as social media systems as free software projects.
 
 
+#### 4.1 Ownership of data, code and device:
+
+
+data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
+
+- absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
+
+- Proletariat Social Networks
+
+- Phos Cloudless Computing Platform
+
+Enable EMYL &ndash; critical to recruitment and training.
+
+move benefits to people here?
+
+We further consider a Cloudless Computing Platform.
+
+#### 4.4 Cloudless vs. cloud. Like Linux cloning Unix.
+
+Move cloning here. Need to describe all benefits first?
+
+- Vision and Action
+
+Vision is Proletariat Social Networks, Phos Cloudless Computing Platform. 
+
+Actions are free software Revolution 2.0: that users can modify live + ID-less messaging. 
+
+
+
 
 #### Notes
 
