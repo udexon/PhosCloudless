@@ -158,6 +158,25 @@ Vision is Proletariat Social Networks, Phos Cloudless Computing Platform.
 Actions are free software Revolution 2.0: that users can modify live + ID-less messaging. 
 
 
+#### 4.1 Employee Market Cap Ratio
+
+Donations by investors
+
+```
+Employee : Market Cap.
+Facebook 43k 575B
+Microsoft 144k 1155B
+Google 114k 900B
+Apple 127k 1200B
+Amazon 648k 893B
+HSBC 151k 237B
+Walmart 2200k 339B
+Shell 81k 225B
+Alibaba 112k 542B
+Bitcon 600+ contributors
+Ethereum 400+ contributors
+```
+
 #### 4.2 Benefits to Programmers: Young and Old
 
 - __Old guards__:
