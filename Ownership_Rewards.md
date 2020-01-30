@@ -76,6 +76,8 @@ The above cannot be done without Shellet Programming and ID-less. Fragmented pro
 
 Many github repo was not written with proper stucture of API, no documentation. YAHUDI provide the structure, and let users poke the memory etc ... need better example and explanation?
 
+Use Phos Reactive Sensor as example. The only way to understand original code is to run it. How to add anything without disrupting original? 
+
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
