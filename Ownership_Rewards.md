@@ -64,6 +64,12 @@ We have outlined above 3 critical components for Free Software Revolution 2.0:
 
 With these 3 components, we are able to build EMYL Earn Money as You Learn. Otherwise, the obstacles against people adopting ... are ...
 
+1. An open source project owner may create a list of Phos library words (function name) mapping to existing or new library functions in the original host programming language (Java, C++ etc). This makes it easier for beginners to learn and prospective collaborators to collaborate.
+
+2. Collaborators then use the Phos libary words from respective upstream projects to create their own Phos library words. The original upstream projects may be written in various different programming languages. However, the downstream programming interface will use a common Phos script, simplifying collaboration and integration.
+
+3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
+
 
 #### 4.2 Benefits to Programmers: Young and Old
 
