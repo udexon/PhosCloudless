@@ -127,6 +127,13 @@ Program modification as a mechanism of class struggle. Existing software model i
 
 #### 4.1 Ownership of data, code and device:
 
+We have outlined above 3 critical components for Free Software Revolution 2.0:
+
+1. ID-less Messaging
+2. Hybrid Upstream Downstream Programming Interface
+3. Live Edit
+
+With these 3 components, we are able to build EMYL Earn Money as You Learn. Otherwise, the obstacles against people adopting ... are ...
 
 data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
 
