@@ -92,6 +92,12 @@ separate fee structure from tipping, fee structure is promise, tipping is to del
 
 https://www.reddit.com/r/programming/comments/ew2a7y/lets_destroy_c/
 
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+
+Forth own REPL shell differs from GDB shell due to features and functionalities provided by RPN, i.e. GDB cannot do RPN and Forth type constructs like colon def etc. But GDB + Phos it will have the features of debugging and metaprogramming (DMP) like Forth. GUI and CLI cannot be debugged like Forth using GDB because of lacking Forth RPN DMP capabilities. Program + GDB + Phos will fill this gap.
+
+Debugging and Metaprogramming -- very good phrase to use.
+
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
 
 :: all ideas are cause and effect, in a graph, chain, tree, network.
