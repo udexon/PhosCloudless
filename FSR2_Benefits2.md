@@ -84,7 +84,72 @@ YAHUDI can overcome this ....
 Next step is to recruit project owners to use Phos. Reward with Earn Money as You Learn.
 
 
-#### 2.2 Benefits to Programmers: Young and Old
+#### 2.2 __Metaprogramming__
+
+(Metaprograming high level view of YAHUDI, One Word at A Time, bridge to mathematics and artificial intelligence.)
+
+Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
+
+先数后算
+
+Homoiconification: All code can be transformed to homoiconic form from top down. How deep to covert depends on convenience.
+
+同相化 转换为后算式 
+
+
+
+
+
+#### 3.1 Live Editing of Code while Programs are _IN EXECUTION_
+
+- Freedom for users to modify features and functionalities of front end and back end processes IN EXECUTION down to a single line of code.
+
+
+Enable on the fly modifications
+
+Beginners concern is learning new words. How? 
+
+Can execute RPN without recompiling. Most important benefits for beginners. Changing code in host programming language is a huge barrier of entry.
+
+
+:: Old model, independent program
+
+The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
+
+:: Jump address of program
+
+Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
+
+:: // Use words from paragraph as label
+Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
+
+
+
+#### 4.1 Ownership of data, code and device:
+
+
+data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
+
+- absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
+
+- Proletariat Social Networks
+
+- Phos Cloudless Computing Platform
+
+Enable EMYL &ndash; critical to recruitment and training.
+
+move benefits to people here?
+
+We further consider a Cloudless Computing Platform.
+
+- Vision and Action
+
+Vision is Proletariat Social Networks, Phos Cloudless Computing Platform. 
+
+Actions are free software Revolution 2.0: that users can modify live + ID-less messaging. 
+
+
+#### 4.2 Benefits to Programmers: Young and Old
 
 - __Old guards__:
 
@@ -125,47 +190,14 @@ Other commercial benefits are derived from the above? Mechanism of transferring 
 
 
 
-#### 2.3 __Metaprogramming__
-
-(Metaprograming high level view of YAHUDI, One Word at A Time, bridge to mathematics and artificial intelligence.)
-
-Programming manipulates data and produce solution in code. Metaprogramming manipulates code. All programmers should progress towards metaprogramming and then mathematics. 
-
-先数后算
-
-Homoiconification: All code can be transformed to homoiconic form from top down. How deep to covert depends on convenience.
-
-同相化 转换为后算式 
 
 
+#### 4.4 Cloudless vs. cloud. Like Linux cloning Unix.
+
+Move cloning here. Need to describe all benefits first?
 
 
-
-#### 3.1 Live Editing of Code while Programs are _IN EXECUTION_
-
-- Freedom for users to modify features and functionalities of front end and back end processes IN EXECUTION down to a single line of code.
-
-
-Enable on the fly modifications
-
-Beginners concern is learning new words. How? 
-
-Can execute RPN without recompiling. Most important benefits for beginners. Changing code in host programming language is a huge barrier of entry.
-
-
-:: Old model, independent program
-
-The internet is already huge. Need incremental software development model = shellet. Old model = full independent programs are not counter productive, barriers of entry too big.
-
-:: Jump address of program
-
-Independent programs are not really independent. Just block of instructions with addresses for operating system to jump to.
-
-:: // Use words from paragraph as label
-Program modification as a mechanism of class struggle. Existing software model is owner vs. user, user cannot change software.
-
-
-#### 3.2 Cloning: A Low Hanging Fruit
+- Cloning: A Low Hanging Fruit
 
 (Cloning is the result/effect of YAHUDI helping project owners to recruit collaborators, improving the components used for Proletariat Social Network &ndash; ___a network owned by everyone___.)
 
@@ -174,32 +206,6 @@ Program modification as a mechanism of class struggle. Existing software model i
 While cloning does not diminish the usefulness of GNU Linux and related free software, it also proved that it is possible to cloning commercial systems such as social media systems as free software projects.
 
 
-#### 4.1 Ownership of data, code and device:
-
-
-data (ID-less), code (Shellet Programming) and device (ID-less + SHLP => can use own device, else useless)
-
-- absolute privacy due to ownership of storage device, execution code and encrypted  data using decentralized ID-less messaging based on asymmetric cryptography
-
-- Proletariat Social Networks
-
-- Phos Cloudless Computing Platform
-
-Enable EMYL &ndash; critical to recruitment and training.
-
-move benefits to people here?
-
-We further consider a Cloudless Computing Platform.
-
-#### 4.4 Cloudless vs. cloud. Like Linux cloning Unix.
-
-Move cloning here. Need to describe all benefits first?
-
-- Vision and Action
-
-Vision is Proletariat Social Networks, Phos Cloudless Computing Platform. 
-
-Actions are free software Revolution 2.0: that users can modify live + ID-less messaging. 
 
 
 
