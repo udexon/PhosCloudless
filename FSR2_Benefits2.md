@@ -162,10 +162,11 @@ The contribution of Free Software Revolution 1.0 is unprecedented in human histo
 
 When FSR1 began, not even Stallman foresaw the rise of MAGAF, with market capitalization into the range of trillions of USD. The educational value of free software in educating programers worldwide, from children below 10 years old in developing countries and above, has never been properly measured, despite the availability of big data algorithms which are also the results of the Free Software Revolution.
 
-- Is it possible to reward free software programmers like MAGAF?
-- How to reward free software programmers like MAGAF?
-
 One of the motivations of EMYL is to reward programmers fairly, from beginners to experts, based on (the inverse of) employee to market capitalization ratio of the biggest of tech corporations and Bitcoin. i.e. Free Software 2.0 should include ___financial freedom___, where the fairest way to reward programmers can be derived from the inverse of employee to market capitalization ratio. The highest of these, of Facebook, stands at more than USD 10 million per employee.
+
+Bitcoin market cap per contributor (contributors as listed in github) stands at USD 170 billion / 680 = USD 250 million.
+
+https://github.com/bitcoin/bitcoin
 
 Donations by investors
 
@@ -183,6 +184,10 @@ Alibaba 112k 542B
 Bitcon 600+ contributors
 Ethereum 400+ contributors
 ```
+
+- Is it possible to reward free software programmers like MAGAF and Bitcoin?
+- How to reward free software programmers like MAGAF and Bitcoin?
+
 
 #### 4.2 Benefits to Programmers: Young and Old
 
