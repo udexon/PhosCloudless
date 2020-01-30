@@ -82,7 +82,7 @@ Third party (Phos specialists) add interface libraries to original projects?
 
 Has a standard Phos interface, makes fee structure possible / easier / measurable?
 
-Phos provides metaprogramming features / words to help measure / manipulate code of high level programming languages. Required for fees calculations and other purposes. How to track usage, owners etc.
+___Phos provides metaprogramming features / words to help measure / manipulate code of high level programming languages, not just RPN to function mapping!!___ Required for fees calculations and other purposes. How to track usage, owners etc. Relate this to metaprogramming section above??
 
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
