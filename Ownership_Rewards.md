@@ -96,7 +96,13 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
 
 Forth own REPL shell differs from GDB shell due to features and functionalities provided by RPN, i.e. GDB cannot do RPN and Forth type constructs like colon def etc. But GDB + Phos it will have the features of debugging and metaprogramming (DMP) like Forth. GUI and CLI cannot be debugged like Forth using GDB because of lacking Forth RPN DMP capabilities. Program + GDB + Phos will fill this gap.
 
-Debugging and Metaprogramming -- very good phrase to use.
+Debugging and Metaprogramming (DMP) -- very good phrase to use.
+
+Forth / Phos DMP may have lots of applications in automatic testing and debugging to clone social networks (Proletariat Social Networks).
+
+PSN only need limited function libraries such as messaging, upload pics etc. Not too many functions to replicate. Biggest obstacles was centralized ID system that caused chick and egg obstacle for growth.
+
+After PSN, games and AI? Write roadmap to excite readers interests.
 
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
 
