@@ -90,7 +90,9 @@ Next step is to recruit project owners to use Phos. Reward with Earn Money as Yo
 
 Unlike the initial free software movement, today we need to fight the establishment &ndash; old guards .... Descendants and proponents of old software.
 
-(Beginners + Old Programmers + Project Owners) fight Old Guards.
+Status quo vs. new ideas proposed here. How different people react.
+
+(Beginners + Old Programmers + Project Owners) fight Old Guards. Explain role of each type of players.
 
 ID-less system is important in EMYL, crucial to reward all, encourage learning and development.
 
