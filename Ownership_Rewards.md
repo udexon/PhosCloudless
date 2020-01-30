@@ -78,6 +78,10 @@ Many github repo was not written with proper stucture of API, no documentation. 
 
 Use Phos Reactive Sensor as example. The only way to understand original code is to run it. How to add anything without disrupting original? 
 
+Third party (Phos specialists) add interface libraries to original projects?
+
+Has a standard Phos interface, makes fee structure possible / easier / measurable?
+
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
