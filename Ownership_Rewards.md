@@ -88,6 +88,8 @@ Phos extension can be used in edit (during edit, not execution) or execution mod
 
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
+https://www.reddit.com/r/programming/comments/ew2a7y/lets_destroy_c/
+
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
 
 :: all ideas are cause and effect, in a graph, chain, tree, network.
