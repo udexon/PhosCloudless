@@ -74,6 +74,8 @@ With these 3 components, we are able to build EMYL Earn Money as You Learn. Othe
 
 The above cannot be done without Shellet Programming and ID-less. Fragmented programmer communities, no economy of scale. Centralized ID management -- cannot grow, chicken and egg.
 
+Many github repo was not written with proper stucture of API, no documentation. YAHUDI provide the structure, and let users poke the memory etc ... need better example and explanation?
+
 separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
 
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
