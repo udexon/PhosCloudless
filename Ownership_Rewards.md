@@ -68,8 +68,15 @@ With these 3 components, we are able to build EMYL Earn Money as You Learn. Othe
 
 2. Collaborators then use the Phos libary words from respective upstream projects to create their own Phos library words. The original upstream projects may be written in various different programming languages. However, the downstream programming interface will use a common Phos script, simplifying collaboration and integration.
 
+3. Based on the basic framework as described above, we may construct a fee structure for various constributors, with granularity of fees down to a single Phos word, which is equivalent to a function name in high level programming languages (upstream, e.g. C++, Java, etc.) 
+
+4. Please refer to for tipping ... (Phos Tipping Example).
+
+separate fee structure from tipping, fee structure is promise, tipping is to deliver promise.
+
 3. Use Phos Messaging to build up database. Their work out payment details. Sponsors.
 
+:: all ideas are cause and effect, in a graph, chain, tree, network.
 
 #### 4.2 Benefits to Programmers: Young and Old
 
