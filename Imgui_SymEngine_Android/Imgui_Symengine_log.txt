@@ -1,0 +1,494 @@
+Executing tasks: [assemble]
+
+> Task :ImguiDemoSdl:preBuild UP-TO-DATE
+> Task :ImguiDemoSdl:preDebugBuild UP-TO-DATE
+> Task :ImguiDemoSdl:compileDebugAidl NO-SOURCE
+> Task :ImguiDemoSdl:checkDebugManifest UP-TO-DATE
+> Task :ImguiDemoSdl:compileDebugRenderscript NO-SOURCE
+> Task :ImguiDemoSdl:generateDebugBuildConfig UP-TO-DATE
+> Task :ImguiDemoSdl:mainApkListPersistenceDebug UP-TO-DATE
+> Task :ImguiDemoSdl:generateDebugResValues UP-TO-DATE
+> Task :ImguiDemoSdl:generateDebugResources UP-TO-DATE
+> Task :ImguiDemoSdl:mergeDebugResources UP-TO-DATE
+> Task :ImguiDemoSdl:javaPreCompileDebug UP-TO-DATE
+> Task :ImguiDemoSdl:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :ImguiDemoSdl:generateJsonModelDebug UP-TO-DATE
+
+> Task :ImguiDemoSdl:externalNativeBuildDebug
+Build test_hopcroft_karp_arm64-v8a
+ninja: warning: multiple rules generate deps/symengine/symengine/libsymengine.a. builds involving this target will not be correct; continuing anyway
+[1/1] Re-running CMake...
+-- 
+-- SDL2 was configured with the following options:
+-- 
+-- Platform: Android-1
+-- 64-bit:   TRUE
+-- Compiler: /home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+-- 
+-- Subsystems:
+--   Atomic:	ON
+--   Audio:	ON
+--   Video:	ON
+--   Render:	ON
+--   Events:	ON
+--   Joystick:	ON
+--   Haptic:	ON
+--   Power:	ON
+--   Threads:	ON
+--   Timers:	ON
+--   File:	ON
+--   Loadso:	ON
+--   CPUinfo:	ON
+--   Filesystem:	ON
+--   Dlopen:	ON
+--   Sensor:	ON
+-- 
+-- Options:
+--   3DNOW                  (Wanted: ON): OFF
+--   ALSA                   (Wanted: ON): OFF
+--   ALSA_SHARED            (Wanted: ON): OFF
+--   ALTIVEC                (Wanted: ON): OFF
+--   ARTS                   (Wanted: ON): OFF
+--   ARTS_SHARED            (Wanted: ON): OFF
+--   ASSEMBLY               (Wanted: ON): ON
+--   ASSERTIONS             (Wanted: auto): auto
+--   BACKGROUNDING_SIGNAL   (Wanted: OFF): OFF
+--   CLOCK_GETTIME          (Wanted: OFF): OFF
+--   DIRECTFB_SHARED        (Wanted: OFF): OFF
+--   DIRECTX                (Wanted: OFF): OFF
+--   DISKAUDIO              (Wanted: ON): ON
+--   DUMMYAUDIO             (Wanted: ON): ON
+--   ESD                    (Wanted: ON): OFF
+--   ESD_SHARED             (Wanted: ON): OFF
+--   FOREGROUNDING_SIGNAL   (Wanted: OFF): OFF
+--   FUSIONSOUND            (Wanted: OFF): OFF
+--   FUSIONSOUND_SHARED     (Wanted: OFF): OFF
+--   GCC_ATOMICS            (Wanted: ON): ON
+--   HIDAPI                 (Wanted: ON): ON
+--   INPUT_TSLIB            (Wanted: ON): OFF
+--   JACK                   (Wanted: ON): OFF
+--   JACK_SHARED            (Wanted: ON): OFF
+--   KMSDRM_SHARED          (Wanted: ON): OFF
+--   LIBC                   (Wanted: ON): ON
+--   LIBSAMPLERATE          (Wanted: ON): OFF
+--   LIBSAMPLERATE_SHARED   (Wanted: ON): OFF
+--   MMX                    (Wanted: ON): OFF
+--   NAS                    (Wanted: ON): OFF
+--   NAS_SHARED             (Wanted: ON): OFF
+--   OSS                    (Wanted: ON): OFF
+--   PTHREADS               (Wanted: ON): ON
+--   PTHREADS_SEM           (Wanted: ON): ON
+--   PULSEAUDIO             (Wanted: ON): OFF
+--   PULSEAUDIO_SHARED      (Wanted: ON): OFF
+--   RENDER_D3D             (Wanted: OFF): OFF
+--   RENDER_METAL           (Wanted: OFF): OFF
+--   RPATH                  (Wanted: ON): OFF
+--   SDL_DLOPEN             (Wanted: ON): ON
+--   SDL_STATIC_PIC         (Wanted: OFF): OFF
+--   SDL_TEST               (Wanted: OFF): OFF
+--   SNDIO                  (Wanted: ON): OFF
+--   SSE                    (Wanted: ON): OFF
+--   SSE2                   (Wanted: ON): OFF
+--   SSE3                   (Wanted: ON): OFF
+--   SSEMATH                (Wanted: ON): OFF
+--   VIDEO_COCOA            (Wanted: OFF): OFF
+--   VIDEO_DIRECTFB         (Wanted: OFF): OFF
+--   VIDEO_DUMMY            (Wanted: ON): ON
+--   VIDEO_KMSDRM           (Wanted: ON): OFF
+--   VIDEO_METAL            (Wanted: OFF): OFF
+--   VIDEO_OPENGL           (Wanted: ON): OFF
+--   VIDEO_OPENGLES         (Wanted: ON): ON
+--   VIDEO_RPI              (Wanted: ON): OFF
+--   VIDEO_VIVANTE          (Wanted: ON): OFF
+--   VIDEO_VULKAN           (Wanted: ON): ON
+--   VIDEO_WAYLAND          (Wanted: ON): OFF
+--   VIDEO_WAYLAND_QT_TOUCH (Wanted: ON): OFF
+--   VIDEO_X11              (Wanted: ON): OFF
+--   VIDEO_X11_XCURSOR      (Wanted: ON): OFF
+--   VIDEO_X11_XINERAMA     (Wanted: ON): OFF
+--   VIDEO_X11_XINPUT       (Wanted: ON): OFF
+--   VIDEO_X11_XRANDR       (Wanted: ON): OFF
+--   VIDEO_X11_XSCRNSAVER   (Wanted: ON): OFF
+--   VIDEO_X11_XSHAPE       (Wanted: ON): OFF
+--   VIDEO_X11_XVM          (Wanted: ON): OFF
+--   WASAPI                 (Wanted: OFF): OFF
+--   WAYLAND_SHARED         (Wanted: ON): OFF
+--   X11_SHARED             (Wanted: ON): OFF
+-- 
+--  CFLAGS:        -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -idirafter /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/SDL/src/video/khronos  -I/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/SDL/src/hidapi/hidapi
+--  EXTRA_CFLAGS:  -Wshadow -fvisibility=hidden -Wdeclaration-after-statement -Werror=declaration-after-statement -fno-strict-aliasing -Wall 
+--  EXTRA_LDFLAGS: -Wl,--no-undefined
+--  EXTRA_LIBS:    m;/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21/libdl.so;/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21/liblog.so;/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21/libandroid.so;hidapi;/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21/libGLESv1_CM.so;/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/21/libGLESv2.so
+-- 
+--  Build Shared Library: ON
+--  Build Static Library: ON
+--  Build Static Library with Position Independent Code: OFF
+-- 
+-- If something was not detected, although the libraries
+-- were installed, then make sure you have set the
+-- CFLAGS and LDFLAGS environment variables correctly.
+-- 
+-- GLM is a header only library, no need to build it. Set the option GLM_TEST_ENABLE with ON to build and run the test bench
+GLM: Clang - Clang compiler
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/.cxx/cmake/debug/arm64-v8a/deps/symengine/cxx /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/cmake/checkcxx11.cpp  -DCOMPILE_DEFINITIONS=-O2 -DNDEBUG  -std=c++11 -fPIC
+-- Linker supports --exclude-libs
+-- cotire 1.7.8 loaded.
+--------------------------------------------------------------------------------
++-------------------------------+
+| Configuration results SUMMARY |
++-------------------------------+
+CMAKE_C_COMPILER:   /home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+CMAKE_CXX_COMPILER: /home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++
+CMAKE_BUILD_TYPE: Debug
+CMAKE_CONFIGURATION_TYPES: 
+CMAKE_C_FLAGS:           -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security 
+CMAKE_CXX_FLAGS:         -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ 
+CMAKE_CXX_FLAGS_DEBUG:   -O0 -fno-limit-debug-info  -std=c++11 -fPIC -Wno-unknown-pragmas
+CMAKE_CXX_FLAGS_RELEASE: -O2 -DNDEBUG  -std=c++11 -fPIC -Wno-unknown-pragmas
+CMAKE_INSTALL_PREFIX: /usr/local
+BUILD_SHARED_LIBS: 
+INTEGER_CLASS : GMP
+HAVE_SYMENGINE_GMP: yes
+WITH_SYMENGINE_ASSERT: yes
+WITH_SYMENGINE_RCP: no
+WITH_SYMENGINE_TEUCHOS: yes
+HAVE_TEUCHOS_DEBUG: yes
+HAVE_TEUCHOS_DEBUG_RCP_NODE_TRACING: yes
+WITH_COTIRE: yes
+WITH_GENERATE_PARSER: no
+HAVE_GCC_ABI_DEMANGLE: yes
+HAVE_C_FUNCTION_NOT_FUNC: no
+HAVE_DEFAULT_CONSTRUCTORS: yes
+HAVE_SYMENGINE_NOEXCEPT: yes
+HAVE_SYMENGINE_IS_CONSTRUCTIBLE: yes
+HAVE_SYMENGINE_RESERVE: yes
+HAVE_SYMENGINE_STD_TO_STRING: TRUE
+WITH_SYMENGINE_THREAD_SAFE: no
+BUILD_TESTS: yes
+BUILD_BENCHMARKS: yes
+BUILD_BENCHMARKS_NONIUS: no
+WITH_GMP: yes
+GMP_INCLUDE_DIRS: /home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2;/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/mpn/generic
+GMP_LIBRARIES: /home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmp.so;/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmpxx.so
+WITH_BFD: no
+WITH_ECM: no
+WITH_PRIMESIEVE: no
+WITH_FLINT: no
+WITH_ARB: no
+WITH_MPFR: no
+WITH_PIRANHA: no
+WITH_LLVM: no
+WITH_BOOST: no
+WITH_PTHREAD: no
+WITH_MPC: no
+WITH_TCMALLOC: no
+WITH_OPENMP: no
+WITH_VIRTUAL_TYPEID: no
+--------------------------------------------------------------------------------
+-- Configuring done
+-- Generating done
+CMake Warning (dev):
+  Policy CMP0058 is not set: Ninja requires custom command byproducts to be
+  explicit.  Run "cmake --help-policy CMP0058" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+  This project specifies custom command DEPENDS on files in the build tree
+  that are not specified as the OUTPUT or BYPRODUCTS of any
+  add_custom_command or add_custom_target:
+   deps/symengine/symengine/symengine_CXX_cotire.cmake
+  For compatibility with versions of CMake that did not have the BYPRODUCTS
+  option, CMake is generating phony rules for such files to convince 'ninja'
+  to build.
+  Project authors should add the missing BYPRODUCTS or OUTPUT options to the
+  custom commands that produce these files.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+-- Build files have been written to: /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/.cxx/cmake/debug/arm64-v8a
+ninja: warning: multiple rules generate deps/symengine/symengine/libsymengine.a. builds involving this target will not be correct; continuing anyway
+[1/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_0_6.cxx
+[2/28] Building CXX object deps/symengine/symengine/utilities/teuchos/CMakeFiles/teuchos.dir/Teuchos_Ptr.cpp.o
+[3/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_7_13.cxx
+[4/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_14_20.cxx
+[5/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_21_27.cxx
+[6/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_28_34.cxx
+[7/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_35_41.cxx
+[8/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_42_48.cxx
+[9/28] Generating CXX unity source deps/symengine/symengine/cotire/symengine_CXX_unity_49_54.cxx
+[10/28] Building CXX object deps/symengine/symengine/utilities/teuchos/CMakeFiles/teuchos.dir/Teuchos_dyn_cast.cpp.o
+[11/28] Building CXX object deps/symengine/symengine/utilities/teuchos/CMakeFiles/teuchos.dir/Teuchos_RCPNode.cpp.o
+[12/28] Building CXX object deps/symengine/symengine/utilities/teuchos/CMakeFiles/teuchos.dir/Teuchos_TestForException.cpp.o
+[13/28] Building CXX object deps/symengine/symengine/utilities/teuchos/CMakeFiles/teuchos.dir/Teuchos_TypeNameTraits.cpp.o
+[14/28] Building CXX object deps/symengine/symengine/utilities/teuchos/CMakeFiles/teuchos.dir/Teuchos_stacktrace.cpp.o
+[15/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_21_27.cxx.o
+[16/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_28_34.cxx.o
+[17/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_0_6.cxx.o
+[18/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_7_13.cxx.o
+[19/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_14_20.cxx.o
+[20/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_35_41.cxx.o
+[21/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_42_48.cxx.o
+[22/28] Building CXX object deps/symengine/symengine/CMakeFiles/symengine_unity.dir/cotire/symengine_CXX_unity_49_54.cxx.o
+[23/28] Linking CXX static library deps/symengine/symengine/utilities/teuchos/libteuchos.a
+[24/28] Linking CXX static library deps/symengine/symengine/libsymengine.a
+[25/28] Building CXX object deps/symengine/symengine/utilities/catch/CMakeFiles/catch.dir/catch.cpp.o
+[26/28] Linking CXX static library deps/symengine/symengine/utilities/catch/libcatch.a
+[27/28] Building CXX object deps/symengine/symengine/utilities/matchpycpp/tests/hopcroft_karp/CMakeFiles/test_hopcroft_karp.dir/test_hopcroft_karp.cpp.o
+[28/28] Linking CXX executable deps/symengine/symengine/utilities/matchpycpp/tests/hopcroft_karp/test_hopcroft_karp
+Build test_case006_arm64-v8a
+ninja: warning: multiple rules generate deps/symengine/symengine/libsymengine.a. builds involving this target will not be correct; continuing anyway
+[1/2] Building CXX object deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o
+[2/2] Linking CXX executable deps/symengine/symengine/utilities/matchpycpp/autogen_tests/test_case006
+FAILED: : && /home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++  --target=aarch64-none-linux-android21 --gcc-toolchain=/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -std=c++11 -fPIC -Wno-unknown-pragmas  -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,--gc-sections deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o  -o deps/symengine/symengine/utilities/matchpycpp/autogen_tests/test_case006  deps/symengine/symengine/libsymengine.a deps/symengine/symengine/utilities/catch/libcatch.a deps/symengine/symengine/libsymengine.a deps/symengine/symengine/utilities/teuchos/libteuchos.a -latomic -lm && :
+deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o: In function `mpz_wrapper<int, 0>':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:120: undefined reference to `__gmpz_init_set_si'
+deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o: In function `~mpz_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:188: undefined reference to `__gmpz_clear'
+deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o: In function `mpz_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:141: undefined reference to `__gmpz_swap'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:367: undefined reference to `__gmpq_init'
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:368: undefined reference to `__gmpq_set'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `~mpq_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:387: undefined reference to `__gmpq_clear'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `bool SymEngine::operator==<int, 0>(SymEngine::mpz_wrapper const&, int)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:262: undefined reference to `__gmpz_cmp_si'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator!=(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:264: undefined reference to `__gmpz_cmp'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator==(SymEngine::mpq_wrapper const&) const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:457: undefined reference to `__gmpq_cmp'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator<(SymEngine::mpq_wrapper const&) const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:465: undefined reference to `__gmpq_cmp'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator-() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:430: undefined reference to `__gmpq_neg'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:360: undefined reference to `__gmpq_init'
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:361: undefined reference to `__gmpz_set'
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:362: undefined reference to `__gmpz_set'
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:363: undefined reference to `__gmpq_canonicalize'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper<int, 0>':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:355: undefined reference to `__gmpq_init'
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:356: undefined reference to `__gmpz_set_si'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:326: undefined reference to `__gmpq_init'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator-(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:419: undefined reference to `__gmpq_sub'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator*(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:436: undefined reference to `__gmpq_mul'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator=(SymEngine::mpq_wrapper&&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:382: undefined reference to `__gmpq_swap'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator+(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:408: undefined reference to `__gmpq_add'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator=(SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:377: undefined reference to `__gmpq_set'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpz_wrapper<long, 0>':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:120: undefined reference to `__gmpz_init_set_si'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::canonicalize()':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:485: undefined reference to `__gmpq_canonicalize'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpz_wrapper::get_si() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:294: undefined reference to `__gmpz_get_si'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpz_wrapper::get_ui() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:290: undefined reference to `__gmpz_get_ui'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpz_wrapper::get_d() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:298: undefined reference to `__gmpz_get_d'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::get_d() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:481: undefined reference to `__gmpq_get_d'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `mpz_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:136: undefined reference to `__gmpz_init_set'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator<(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:254: undefined reference to `__gmpz_cmp'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `mpz_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:124: undefined reference to `__gmpz_init'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mpz_wrapper::operator=(SymEngine::mpz_wrapper&&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:154: undefined reference to `__gmpz_swap'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator+(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:201: undefined reference to `__gmpz_add'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator-(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:205: undefined reference to `__gmpz_sub'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator*(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:203: undefined reference to `__gmpz_mul'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `bool SymEngine::operator< <int, 0>(SymEngine::mpz_wrapper const&, int)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:254: undefined reference to `__gmpz_cmp_si'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mpz_wrapper::operator-() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:226: undefined reference to `__gmpz_neg'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mp_abs(SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:93: undefined reference to `__gmpz_abs'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `bool SymEngine::operator!=<int, 0>(SymEngine::mpz_wrapper const&, int)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:264: undefined reference to `__gmpz_cmp_si'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `bool SymEngine::operator><unsigned int, 0>(SymEngine::mpz_wrapper const&, unsigned int)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:258: undefined reference to `__gmpz_cmp_ui'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mp_pow_ui(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, unsigned long)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:156: undefined reference to `__gmpz_pow_ui'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mpz_wrapper::fits_ulong_p() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:302: undefined reference to `__gmpz_fits_ulong_p'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator==(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:262: undefined reference to `__gmpz_cmp'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mp_fdiv_r(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:200: undefined reference to `__gmpz_fdiv_r'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mpq_wrapper::operator>(SymEngine::mpq_wrapper const&) const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:473: undefined reference to `__gmpq_cmp'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::operator/(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:447: undefined reference to `__gmpq_div'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `bool SymEngine::operator< <unsigned int, 0>(SymEngine::mpz_wrapper const&, unsigned int)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:254: undefined reference to `__gmpz_cmp_ui'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mp_root(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, unsigned long)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:1004: undefined reference to `__gmpz_root'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mp_perfect_power_p(SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:1098: undefined reference to `__gmpz_perfect_power_p'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `mpq_wrapper':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:372: undefined reference to `__gmpq_init'
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:373: undefined reference to `__gmpq_swap'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mpz_wrapper::fits_slong_p() const':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:306: undefined reference to `__gmpz_fits_slong_p'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_21_27.cxx.o): In function `SymEngine::mp_lcm(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:236: undefined reference to `__gmpz_lcm'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_21_27.cxx.o): In function `SymEngine::mp_fdiv_qr(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:224: undefined reference to `__gmpz_fdiv_qr'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_35_41.cxx.o): In function `SymEngine::mp_abs(SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:295: undefined reference to `__gmpq_abs'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_42_48.cxx.o): In function `SymEngine::mp_cmpabs(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:1136: undefined reference to `__gmpz_cmpabs'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_49_54.cxx.o): In function `SymEngine::operator<<(std::__ndk1::basic_ostream<char, std::__ndk1::char_traits<char> >&, SymEngine::mpz_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.cpp:26: undefined reference to `__gmpz_get_str'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_49_54.cxx.o): In function `SymEngine::operator<<(std::__ndk1::basic_ostream<char, std::__ndk1::char_traits<char> >&, SymEngine::mpq_wrapper const&)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.cpp:34: undefined reference to `__gmpq_get_str'
+deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_49_54.cxx.o): In function `bool SymEngine::operator==<unsigned int, 0>(SymEngine::mpz_wrapper const&, unsigned int)':
+/home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:262: undefined reference to `__gmpz_cmp_ui'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+> Task :ImguiDemoSdl:externalNativeBuildDebug FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':ImguiDemoSdl:externalNativeBuildDebug'.
+> Build command failed.
+  Error while executing process /home/hongwu/Android/Sdk/cmake/3.6.4111459/bin/cmake with arguments {--build /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/.cxx/cmake/debug/arm64-v8a --target test_case006}
+  [1/2] Building CXX object deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o
+  [2/2] Linking CXX executable deps/symengine/symengine/utilities/matchpycpp/autogen_tests/test_case006
+  FAILED: : && /home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++  --target=aarch64-none-linux-android21 --gcc-toolchain=/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/hongwu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -std=c++11 -fPIC -Wno-unknown-pragmas  -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,--gc-sections deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o  -o deps/symengine/symengine/utilities/matchpycpp/autogen_tests/test_case006  deps/symengine/symengine/libsymengine.a deps/symengine/symengine/utilities/catch/libcatch.a deps/symengine/symengine/libsymengine.a deps/symengine/symengine/utilities/teuchos/libteuchos.a -latomic -lm && :
+  deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o: In function `mpz_wrapper<int, 0>':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:120: undefined reference to `__gmpz_init_set_si'
+  deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o: In function `~mpz_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:188: undefined reference to `__gmpz_clear'
+  deps/symengine/symengine/utilities/matchpycpp/autogen_tests/CMakeFiles/test_case006.dir/test_case006.cpp.o: In function `mpz_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:141: undefined reference to `__gmpz_swap'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:367: undefined reference to `__gmpq_init'
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:368: undefined reference to `__gmpq_set'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `~mpq_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:387: undefined reference to `__gmpq_clear'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `bool SymEngine::operator==<int, 0>(SymEngine::mpz_wrapper const&, int)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:262: undefined reference to `__gmpz_cmp_si'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator!=(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:264: undefined reference to `__gmpz_cmp'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator==(SymEngine::mpq_wrapper const&) const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:457: undefined reference to `__gmpq_cmp'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator<(SymEngine::mpq_wrapper const&) const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:465: undefined reference to `__gmpq_cmp'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator-() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:430: undefined reference to `__gmpq_neg'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:360: undefined reference to `__gmpq_init'
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:361: undefined reference to `__gmpz_set'
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:362: undefined reference to `__gmpz_set'
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:363: undefined reference to `__gmpq_canonicalize'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper<int, 0>':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:355: undefined reference to `__gmpq_init'
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:356: undefined reference to `__gmpz_set_si'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpq_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:326: undefined reference to `__gmpq_init'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator-(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:419: undefined reference to `__gmpq_sub'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator*(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:436: undefined reference to `__gmpq_mul'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator=(SymEngine::mpq_wrapper&&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:382: undefined reference to `__gmpq_swap'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::operator+(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:408: undefined reference to `__gmpq_add'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::operator=(SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:377: undefined reference to `__gmpq_set'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `mpz_wrapper<long, 0>':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:120: undefined reference to `__gmpz_init_set_si'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::canonicalize()':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:485: undefined reference to `__gmpq_canonicalize'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpz_wrapper::get_si() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:294: undefined reference to `__gmpz_get_si'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpz_wrapper::get_ui() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:290: undefined reference to `__gmpz_get_ui'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpz_wrapper::get_d() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:298: undefined reference to `__gmpz_get_d'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_0_6.cxx.o): In function `SymEngine::mpq_wrapper::get_d() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:481: undefined reference to `__gmpq_get_d'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `mpz_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:136: undefined reference to `__gmpz_init_set'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator<(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:254: undefined reference to `__gmpz_cmp'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `mpz_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:124: undefined reference to `__gmpz_init'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mpz_wrapper::operator=(SymEngine::mpz_wrapper&&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:154: undefined reference to `__gmpz_swap'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator+(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:201: undefined reference to `__gmpz_add'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator-(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:205: undefined reference to `__gmpz_sub'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator*(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:203: undefined reference to `__gmpz_mul'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `bool SymEngine::operator< <int, 0>(SymEngine::mpz_wrapper const&, int)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:254: undefined reference to `__gmpz_cmp_si'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mpz_wrapper::operator-() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:226: undefined reference to `__gmpz_neg'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mp_abs(SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:93: undefined reference to `__gmpz_abs'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `bool SymEngine::operator!=<int, 0>(SymEngine::mpz_wrapper const&, int)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:264: undefined reference to `__gmpz_cmp_si'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `bool SymEngine::operator><unsigned int, 0>(SymEngine::mpz_wrapper const&, unsigned int)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:258: undefined reference to `__gmpz_cmp_ui'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mp_pow_ui(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, unsigned long)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:156: undefined reference to `__gmpz_pow_ui'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::mpz_wrapper::fits_ulong_p() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:302: undefined reference to `__gmpz_fits_ulong_p'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_7_13.cxx.o): In function `SymEngine::operator==(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:262: undefined reference to `__gmpz_cmp'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mp_fdiv_r(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:200: undefined reference to `__gmpz_fdiv_r'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mpq_wrapper::operator>(SymEngine::mpq_wrapper const&) const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:473: undefined reference to `__gmpq_cmp'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::operator/(SymEngine::mpq_wrapper const&, SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:447: undefined reference to `__gmpq_div'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `bool SymEngine::operator< <unsigned int, 0>(SymEngine::mpz_wrapper const&, unsigned int)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:254: undefined reference to `__gmpz_cmp_ui'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mp_root(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, unsigned long)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:1004: undefined reference to `__gmpz_root'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mp_perfect_power_p(SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:1098: undefined reference to `__gmpz_perfect_power_p'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `mpq_wrapper':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:372: undefined reference to `__gmpq_init'
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:373: undefined reference to `__gmpq_swap'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_14_20.cxx.o): In function `SymEngine::mpz_wrapper::fits_slong_p() const':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:306: undefined reference to `__gmpz_fits_slong_p'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_21_27.cxx.o): In function `SymEngine::mp_lcm(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:236: undefined reference to `__gmpz_lcm'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_21_27.cxx.o): In function `SymEngine::mp_fdiv_qr(SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper&, SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:224: undefined reference to `__gmpz_fdiv_qr'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_35_41.cxx.o): In function `SymEngine::mp_abs(SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:295: undefined reference to `__gmpq_abs'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_42_48.cxx.o): In function `SymEngine::mp_cmpabs(SymEngine::mpz_wrapper const&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_class.h:1136: undefined reference to `__gmpz_cmpabs'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_49_54.cxx.o): In function `SymEngine::operator<<(std::__ndk1::basic_ostream<char, std::__ndk1::char_traits<char> >&, SymEngine::mpz_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.cpp:26: undefined reference to `__gmpz_get_str'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_49_54.cxx.o): In function `SymEngine::operator<<(std::__ndk1::basic_ostream<char, std::__ndk1::char_traits<char> >&, SymEngine::mpq_wrapper const&)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.cpp:34: undefined reference to `__gmpq_get_str'
+  deps/symengine/symengine/libsymengine.a(symengine_CXX_unity_49_54.cxx.o): In function `bool SymEngine::operator==<unsigned int, 0>(SymEngine::mpz_wrapper const&, unsigned int)':
+  /home/hongwu/devel/2020/Android/Imgui_Android/ImguiDemoSdl/src/main/cpp/deps/symengine/symengine/mp_wrapper.h:262: undefined reference to `__gmpz_cmp_ui'
+  clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+  ninja: build stopped: subcommand failed.
+  
+  ninja: warning: multiple rules generate deps/symengine/symengine/libsymengine.a. builds involving this target will not be correct; continuing anyway
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 59s
+9 actionable tasks: 1 executed, 8 up-to-date
+
