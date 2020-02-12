@@ -175,7 +175,9 @@ endif()
 # set(INTEGER_CLASS "gmp"
 #    CACHE STRING "Integer class for symengine. Either gmp, gmpxx, flint or piranha")
 
-set(INTEGER_CLASS "gmp")
+# INTEGER_CLASS should be "gmpxx"??
+# elseif ("${INTEGER_CLASS}" MATCHES "gmpxx")
+set(INTEGER_CLASS "gmpxx")
 
 # Virtual TypeID
 set(WITH_VIRTUAL_TYPEID no CACHE BOOL "Use virtual TypeID getter")
@@ -203,7 +205,18 @@ set(HAVE_SYMENGINE_FLINT False)
 # set(GMP_INCLUDE_DIRS "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.2.0" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.2.0/mpn/generic")
 
 # Ubuntu libgmp-dev is 6.1.2
-set(GMP_LIBRARIES "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmp.so" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmpxx.so")
+# set(GMP_LIBRARIES "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmp.so" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmpxx.so" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmp.a" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmpxx.a")
+
+# only .a libs?
+# https://android.developreference.com/article/24854880/GMP+Library%2C+compile+error+in+C%2B%2B%2C+MinGW%2C+Code%3A%3ABlocks
+# I suspect the command to build your program specifies the libgmp* libraries in the wrong order. Make sure the libgmp.a library is specified after the libgmpxx.a library:
+# -lgmpxx -lgmp
+# If they are specified in the other order, then when pulling in dependencies from libgmpxx.a library, the libgmp.a library won't be searched.
+
+# 2020-02-13
+# only .a libs? .so libs are dynamic for run time.
+set(GMP_LIBRARIES  "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmpxx.a" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/.libs/libgmp.a")
+
 set(GMP_INCLUDE_DIRS "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2" "/home/hongwu/devel/2020/Android/gmp_android/gmp-master/gmp-6.1.2/mpn/generic")
 
 
@@ -568,8 +581,8 @@ set(WITH_SYMENGINE_THREAD_SAFE "${BUILD_FOR_DISTRIBUTION}"
     CACHE BOOL "Enable SYMENGINE_THREAD_SAFE support")
 
 # TESTS
-set(BUILD_TESTS yes
-    CACHE BOOL "Build SymEngine tests")
+set(BUILD_TESTS no)
+#    CACHE BOOL "Build SymEngine tests")
 
 # Teuchos
 set(WITH_SYMENGINE_TEUCHOS no
@@ -714,7 +727,7 @@ install(EXPORT SymEngineTargets DESTINATION ${INSTALL_CMAKE_DIR})
 file(COPY ${symengine_SOURCE_DIR}/cmake/ DESTINATION ${symengine_BINARY_DIR}/cmake)
 
 if (BUILD_BENCHMARKS)
-    add_subdirectory(benchmarks)
+    # add_subdirectory(benchmarks)
 endif()
 
 # At the end we print a nice summary
