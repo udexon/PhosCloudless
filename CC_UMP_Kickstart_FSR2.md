@@ -4,6 +4,8 @@
 
 :: Shell is an essential method of interaction -- human ask questions about computer systems via shell interface, the most versatile interface, more comprehensive than GUI. e.g. Reading documentation of SymEngine, I wants to ask question about a specific topic. Question and Answer is fundamental to human acquisition of knowledge. Shell is the ultimate interface for question and answer. Hence RPN is the ultimate script for shell.
 
+Shell / question and answer (SQA) is more fundamental than mathematics. Mathematics is the product of SQA. SQA is the investigative methods to seek truth, eventually formalized as mathematics.
+
 We define Free Software Revolution 1.0 (FSR1) as the period encompassing the creation of GNU Linux and tools to Google's acquisition of the Android operating system. The mobile computing era, empowered by Android and iOS, saw the rise of tech giants and start-ups worth trillions of USD, as well as cryptocurrencies.
 
 However, in some fundamental ways, the freedom of software development stagnated, as the front end apps and back end services are increasingly dominated by invisible corporate entities, without anyone proposing a viable solution.
